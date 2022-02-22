@@ -1,0 +1,883 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon the ordinance of the Lords and Commons at Westminster after advice had with their Assembly of Divines for the ordination of ministers pro tempore, according to their directory for ordination and rule for examination therein expressed.</title>
+            <author>Boughen, Edward, 1587?-1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28865</idno>
+            <idno type="STC">Wing B3815</idno>
+            <idno type="STC">ESTC R20014</idno>
+            <idno type="EEBO-CITATION">12402074</idno>
+            <idno type="OCLC">ocm 12402074</idno>
+            <idno type="VID">61278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 271:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon the ordinance of the Lords and Commons at Westminster after advice had with their Assembly of Divines for the ordination of ministers pro tempore, according to their directory for ordination and rule for examination therein expressed.</title>
+                  <author>Boughen, Edward, 1587?-1660?</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anti-Presbyterian analysis of An ordinance of the Lords and Commons ... after advice had with the Assembly of Divines, for the ordination of ministers pro tempore.</note>
+                  <note>Attributed to Edward Boughen. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  Controversial literature.</term>
+               <term>England and Wales. --  Parliament. --  Ordinance of the Lords and Commons assembled in Parliament after advice had with the Assembly of Divines for the ordination of ministers pro tempore.</term>
+               <term>Westminster Assembly (1643-1652)</term>
+               <term>Bishops --  England.</term>
+               <term>Ordination.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61278:1"/>
+            <pb facs="tcp:61278:1" rendition="simple:additions"/>
+            <p>OBSERVATIONS UPON THE ORDINANCE OF THE LORDS and COMMONS AT WESTMINSTER.</p>
+            <p>After advice had with their Aſſembly of DIVINES, for the Ordination of Miniſters <hi>pro Tempore,</hi> according to their DIRECTORY for ORDINATION, and Rules for Examination there<g ref="char:EOLhyphen"/>in expreſſed.</p>
+            <p>
+               <hi>Die Mercurij.</hi> 2. <hi>Octob.</hi> 1644.</p>
+            <q>The Prieſthood being changed, there is made of neceſſity a change alſo of the Law, <bibl>Heb. 7.12.</bibl>
+            </q>
+            <q>Si qui cum Epiſcopo non ſint, in Eccleſiâ non ſunt. <bibl>Cypr. Epiſt. 69. n. 31.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniverſity.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61278:2"/>
+            <pb n="1" facs="tcp:61278:2"/>
+            <head>OBSERVATIONS UPON THE ORDINANCE, &amp;c. 2. Octob. 1644.</head>
+            <p n="1">1. <seg rend="decorInit">I</seg> Will not quarrell with the <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> or Authors thereof, becauſe it ariſeth from them, who have neither skill nor authority to provide for <hi>Or<g ref="char:EOLhyphen"/>dination.</hi> This were ſomething an high charge. And yet <hi>Ordination</hi> is confeſſed
+<note n="a" place="margin">
+                  <hi>Ord. p.</hi> 2.</note> to be a ſpirituall act, which may only be performed by ſpirituall perſons. It ought therefore to be provided for by ſpirituall Perſons. Whereas this <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> goes backward: it is ſent from the <hi>Lords</hi> and <hi>Commons</hi> to the <hi>Aſſembly of Divines;</hi> not to be deviſed, or framed by them, but to <hi>take care of the Printing thereof.</hi> That's all they have to doe in the publiſhing of this <hi>Ordinance:</hi> Witneſſe <hi>H. Elſynge.</hi> It ſeems, they are eſteemed fit men to overſee the Preſſe.</p>
+            <p n="2">2. Whereas
+<note n="b" place="margin">
+                  <hi>Cod. Afric. Can.</hi> 103.</note> 
+               <hi>Publick Prayers,</hi> and <hi>Formes of Ordination,</hi> had wont to be collected and Ordered by <hi>Divines,</hi> indeed, by <hi>Biſhops</hi> aſſembled in a <hi>Synode,</hi> or free Councell; though after<g ref="char:EOLhyphen"/>wards
+<pb n="2" facs="tcp:61278:3"/>confirmed and <hi>authorized</hi> by <hi>Princes</hi> and Acts of State, for the quiet performance of the ſame, and full conformity thereto.</p>
+            <p n="3">3. Thus was it in the daies of K. <hi>Edward</hi> the ſixt, of Q. <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> and K. <hi>Iames.</hi> Indeed were not Corporall and penall Lawes made, which are not in the power of the Church, ſome light Spirits, and unquiet diſpoſitions would diſſolve the bonds of unity, and ſubvert the frame of uniformity, while they like of nothing, but what is ſuitable to their own giddy braines and diſtempered fancies; nor of that long.</p>
+            <p n="4">4. This <hi>Ordinance of the Lords and Commons,</hi> is no long lived <hi>Ordinance;</hi> it is not like
+<note n="c" place="margin">Dan. 68.</note> the Lawes of the <hi>Medes</hi> and <hi>Perſians,</hi> laſting and unalterable; it is but <hi>pro tempore,</hi> for the time of their Soveraignty. And the tide, with Gods bleſſing, may turne before <hi>October</hi> next. If not,
+<note n="d" place="margin">Provided, that this <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> ſhall ſtand in force for <hi>twelve Months, and no longer.</hi> Ord p 15.</note> 
+               <hi>Ordination,</hi> we ſee, is with them as changeable as an <hi>Ordinance,</hi> And this mani<g ref="char:EOLhyphen"/>feſts, that this their <hi>Ordination</hi> is no divine Inſtitution.</p>
+            <p n="5">5. But this <hi>Ordinance</hi> was made <hi>after advice had with the Aſſembly of Divines.</hi> The <hi>Advice</hi> is theirs, the <hi>Ordinance</hi> yours. They are the Councellors to <hi>adviſe,</hi> but <hi>yee</hi> the <hi>State,</hi> that <hi>Ordaines</hi> and enacts. Whereas they ought not
+<note n="e" place="margin">25 H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. VIII. c. 19.</note> by the Lawes of this Kingdome to have met in any ſuch <hi>Aſſembly,</hi> without the Kings ſummons:
+<note n="f" place="margin">Ib.</note> neither ought any <hi>Ordinance</hi> at all to be made without His Royall aſſent.
+<note n="g" place="margin">1. Eliſ c. 1.</note> All ſuch Spiritu<g ref="char:EOLhyphen"/>all and Eccleſiaſticall Iuriſdiction is annexed to the <hi>Crowne of this Realme;</hi> and to no other. And
+<note n="h" place="margin">1. Eliſ. c. 2.</note> the <hi>King,</hi> by the <hi>advice</hi> of the <hi>Metropolitan</hi> of this Realme, or of <hi>His Commiſſioners</hi> for cauſes Eccleſiaſticall, may <hi>Ordaine,</hi> or publiſh Rites and Ce<g ref="char:EOLhyphen"/>remonies. But I read of no other, that have Legall power in this Realme of <hi>England,</hi> without the Kings Commiſſion to doe thus.</p>
+            <p n="6">6. But you take <hi>advice with the Aſſembly of Divines,</hi> your Commiſſioners. An <hi>Aſſembly of Divines?</hi> ſo you call it. But is it ſo? conſiſts it only of <hi>Divines?</hi> It ſeems ſo by the title of your <hi>Ordinance:</hi> but how then come
+<note n="i" place="margin">Ordin. Jun. 12. 1643 p. 2.</note> the Earles of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> and <hi>Mancheſter,</hi> Viſcount <hi>Sea</hi> and <hi>Seale, Francis Rows,</hi> Sir <hi>Henry Vane,</hi> and <hi>John White,</hi> into the <hi>Aſſembly?</hi>
+               <pb n="3" facs="tcp:61278:3"/>Are theſe <hi>Divines?</hi> States-men, and Lawyers, and Sword-men, Lords and Knights, all <hi>Divines.</hi> I perceive then, we may have <hi>Lord-Divines,</hi> though not <hi>Lord-Biſhops. States-men</hi> may meddle with <hi>Divinity;</hi> though not <hi>Divines</hi> with the <hi>State?</hi> Now I have lived to ſee
+<note n="k" place="margin">1. Sam. 19.23.</note> 
+               <hi>Saul among the Prophets;</hi>
+               <note n="l" place="margin">Act. 2.17.</note> 
+               <hi>your Sonnes and Daughters</hi> of all Profeſſions, <hi>Propheſy,</hi> or <hi>Dreame Dreames,</hi> ſome upon Wooll packs, others in Pulpits or Tubbs; no matter where, ſo it be for the good of the <hi>State.</hi>
+            </p>
+            <p n="7">7. Here then muſt needs be an <hi>adviſed,</hi> a <hi>Divine Ordi<g ref="char:EOLhyphen"/>nance.</hi> But though it be made <hi>after advice,</hi> yee tell us not, that it was made <hi>according</hi> to their Divine <hi>advice.</hi> If it be, I hope ſome of them will be able to juſtify it, by the Lawes both of God and this Realme. But the plain truth is, this project was reſolved upon, before any <hi>advice</hi> had with them. This will clearly appeare, if we caſt an eye back upon <hi>An Ordinance for the calling of an Aſſembly of Learned Divines.</hi> Iun<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 12. 1643.</p>
+            <p n="8">8. Wherein firſt, before diſcuſſing of the queſtion by your <hi>Learned Divines,</hi> yee
+<note n="m" place="margin">Ord. Iune 12. 1643. p. 1.</note> 
+               <hi>declare and reſolve</hi> (firſt <hi>declare,</hi> and then <hi>reſolve;</hi> note that) <hi>that the preſent Church-government, by Arch-Biſhops, Biſhops, &amp;c. is evill, and juſtly offenſive and burthenſome to the Kingdome, a great impediment to Reforma<g ref="char:EOLhyphen"/>tion and growth of Religion, and very prejudiciall to the State and Government of this Kingdom: and that therefore you are re<g ref="char:EOLhyphen"/>ſolved, that the ſame ſhall be taken away.</hi> And in the <hi>Solemne League and Covenant,</hi> yee vow the <hi>extirpation</hi> thereof.</p>
+            <p n="9">9. So the <hi>Aſſembly</hi> have their Leſſon before hand, <hi>Epiſco<g ref="char:EOLhyphen"/>pall Government</hi> muſt downe; it may not be admitted into conſideration, be the <hi>Aſſembly</hi> never ſo deſirous. It is <hi>Decla<g ref="char:EOLhyphen"/>red and Reſolved</hi> by their infallible Maſters, that it is evill, and
+<note n="n" place="margin">View of the Covenant. p. 34.</note> the View of the Covenant calls it <hi>Antichriſtian. Juſtly of<g ref="char:EOLhyphen"/>fenſive</hi> it is <hi>to the Kingdome,</hi> and <hi>very prejudiciall to the state;</hi> and ſo are the Kings Revenues, and diverſe Noble mens, and Gentlemens goods and Lands; you have therefore <hi>taken them away,</hi> and ſome of them ye have given, ſome ſold away. In<g ref="char:EOLhyphen"/>deed the Biſhops Lands are <hi>juſtly offenſive,</hi> and their govern<g ref="char:EOLhyphen"/>ment <hi>prejudiciall to the State,</hi> ye ſtand in. For had they follow<g ref="char:EOLhyphen"/>ed S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> directions, 2. <hi>Tim.</hi> 3.4, 5. I know in what <hi>ſtate</hi> ye
+<pb n="4" facs="tcp:61278:4"/>had been long ſince. In truth had not their <hi>Lands</hi> been <hi>evill</hi> in your eye, the <hi>Government</hi> would never have been <hi>offenſive.</hi> This <hi>Kingdome</hi> hath flouriſhed more yeares with this <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> then it can dayes with your unvoted, undeviſed platform. What a furtherance it hath been to <hi>Reformation and growth of Religion,</hi> the Enemies to the Catholick Religion have been ſenſible, and the moſt eminent men in the Reformed Chur<g ref="char:EOLhyphen"/>ches bare us witneſſe. I ſhall name one yet living, who will not, I preſume revoke, or retract, what he hath written. <hi>Peter Moulin</hi> is the man; and his words are theſe.
+<note n="o" place="margin">
+                  <hi>Pet. Molin. ad Epiſc. Winton. Ep.</hi> 3. §. <hi>Hic mihi.</hi>
+               </note> 
+               <hi>Scio inſtaura<g ref="char:EOLhyphen"/>tionem Eccleſiae Anglicanae, &amp; everſionem Papiſmi, poſt Deum &amp; Reges, deberipraecipue,</hi> EPISCOPORUM DOCTRINAE ET INDUSTRIAE. <hi>I know</hi> (ſaith he) <hi>that the Reformation of the Church of</hi> England, <hi>and the ſubverſion of Popery, next after God and the Soveraignes of this Kingdome, are chiefly due to the</hi> LEARNING AND INDUSTRY OF THEIR BISHOPS.</p>
+            <p n="10">10. Let other men be of what opinion they pleaſe, ye are reſolved, downe they ſhall.
+<note n="p" place="margin">
+                  <hi>Ordin. Iune.</hi> 12. 1643. <hi>p.</hi> 1.</note> 
+               <hi>For the ſetling therefore of a</hi> NEW GOVERNMENT, <hi>and for the vindicating and clearing of the Doctrine of the Church of</hi> England, <hi>from all falſe calum<g ref="char:EOLhyphen"/>nies and asperſions it is thought fit and neceſſary to call an Aſſem<g ref="char:EOLhyphen"/>bly of Learned, Godly, and Judicious Divines, to conſult and adviſe with.</hi>
+               <note n="q" place="margin">
+                  <hi>Ib. p.</hi> 2.</note> The firſt of theſe is, <hi>Algernon Earle of Nor<g ref="char:EOLhyphen"/>thumberland,</hi> and with him <hi>nine Lords,</hi> and <hi>twenty Knights and Burgeſſes.</hi> After theſe come in the reſt of the <hi>Learned Divines,</hi> called <hi>Miniſters.</hi>
+            </p>
+            <p n="11">11. And that ye may be ſure to have the whole worke goe forward, according to your owne hearts deſire, you order very warily and diſcreetly, that
+<note n="r" place="margin">
+                  <hi>Ib. p.</hi> 4.</note> 
+               <hi>ſuch other Perſon and Perſons, as ſhall be nominated and appointed by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, ſhall meet and aſſemble,</hi> for the purpoſes before mentio<g ref="char:EOLhyphen"/>ned. And if you like them not, you will aire them, and
+<note n="ſ" place="margin">Ib.</note> 
+               <hi>from time to time remove them from place to place.</hi> And if that will not qualifie their heat, and pull down their ſtubborne ſtomacks, then
+<note n="t" place="margin">Ib.</note> 
+               <hi>ſhall they be diſſolved in ſuch manner, as by both Houſes of Parliament ſhall be directed.</hi> Complaine no longer, that <hi>Trent</hi> was no free Councell, declame not againſt their ſhifts
+<pb n="5" facs="tcp:61278:4"/>and devices; your ſelves have outſtripped them; for never men made ſurer worke.</p>
+            <p n="12">12. Well, meet they ſhall, and that they may anſwer the expectation of Men and Angells,
+<note n="u" place="margin">Ib.</note> 
+               <hi>the ſaid Perſons, being at leaſt of the number of Forty, ſhall have power and authority.</hi> To doe what? even <hi>to conferre and Treat amongſt themſelves of ſuch matters and things touching and concerning the Liturgie, Diſcipline, and Government of the Church of England.</hi> A large Commiſſion indeed.</p>
+            <p n="13">13. Obſerve, I pray you; <hi>Forty</hi> of theſe may <hi>conferre and Treat. Forty;</hi> whereof there are <hi>Ten Lords, Twenty Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commons,</hi> and to theſe they may adde <hi>ſuch other Perſons,</hi> for number and affection, as it ſhall pleaſe <hi>both Houſes to nominate and appoint.</hi> So there may be <hi>Ten Di<g ref="char:EOLhyphen"/>vines,</hi> or no <hi>Divines</hi> in the <hi>Aſſembly,</hi> as it ſhall pleaſe the Houſes. And yet it ſhall be called an <hi>Aſſembly of Divines,</hi> because ye have Voted them to be ſo. But they muſt no fur<g ref="char:EOLhyphen"/>ther
+<note n="*" place="margin">
+                  <hi>Ib. p.</hi> 5.</note> 
+               <hi>adviſe, or deliver their opinions, then ſhall be required by both or either of the Houſes.</hi> Neither may they meddle with theſe, or any other things, but
+<note n="x" place="margin">Ib.</note> 
+               <hi>as they ſhall be propoſed unto them by one or both Houſes.</hi> But how if the Houſes will not <hi>propoſe?</hi> Then muſt theſe be mute. Neither may they
+<note n="y" place="margin">Ib.</note> 
+               <hi>di<g ref="char:EOLhyphen"/>vulge by Printing, Writing, or otherwiſe,</hi> their opinions and advices, <hi>without the conſent of both, or either Houſe of Parlia<g ref="char:EOLhyphen"/>ment.</hi> What are theſe then but Iourney-men to the Houſes?
+<note n="z" place="margin">Ib.</note> 
+               <hi>If any difference in opinion ariſe</hi> among theſe <hi>Divines,</hi> it is to be <hi>repreſented to one, or both of the Houſes;</hi> and from thence they ſhall receive <hi>ſuch directions, as ſhall be requiſite.</hi> The Houſes then are to <hi>moderate</hi> and <hi>determine,</hi> the <hi>Aſſembly</hi> onely to <hi>Treat</hi> and <hi>Adviſe.</hi> Thus I have briefly preſented unto you, the full <hi>Power</hi> and <hi>Authority</hi> of the <hi>Aſſembly.</hi>
+            </p>
+            <p n="14">14. Well, adviſed, it ſeemes, they have, and an <hi>Ordinance for Ordination</hi> you have given us: but you tell us not, that this <hi>Ordinance</hi> is framed according to their advice, but <hi>according to the Directory for Ordination, and Rules for Examination, therein expreſſed.</hi> Theſe words cauſed me heretofore to dream of a more full <hi>Directory.</hi> But I ſee by your <hi>Directory for pub<g ref="char:EOLhyphen"/>licke
+<pb n="6" facs="tcp:61278:5"/>Prayers,</hi> that we are like to have no other,
+<note n="a" place="margin">
+                  <hi>Ord. p.</hi> 15.</note> till the <hi>Twelve Moneths</hi> be over; for ſo long <hi>this Ordinance ſtands in force, and no longer.</hi> So ſay you; and ſo ſay I, by Gods grace. Thus farre I have gone with your Title Page: and now I ſhall make bold with the frame of your <hi>Ordinance,</hi> and ſee upon what Foundation it is ſetled.</p>
+            <p n="15">15. The old <hi>Crambe,</hi> is layed for the Corner ſtone. But if this totter and faile, farewell frame, the <hi>Directory</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> are at an end, they will hardly hold out the <hi>Twelve Moneths</hi> they were provided for. And they end <hi>October</hi> the ſecond next enſuing. You follow your grand Champion Mounſeir <hi>Smectymnuns;</hi> and by him you are miſled. He ſaies, that
+<note n="b" place="margin">
+                  <hi>Smect. An<g ref="char:EOLhyphen"/>ſw. p.</hi> 21. <hi>&amp;</hi> 26.</note> 
+               <hi>the word Presbyter, and the word Biſhop, doe in the Scrip<g ref="char:EOLhyphen"/>tures ſignifie one and the ſame Function;</hi> and
+<note n="c" place="margin">
+                  <hi>Ord. p.</hi> 1.</note> you juſtifie it. As if the difference were about a bare Title, or <hi>Word,</hi> and not about an <hi>Order,</hi> or <hi>Function</hi> of the higheſt moment in ſpiritu<g ref="char:EOLhyphen"/>alls. Which failing, the two other <hi>Orders,</hi> and both the <hi>Sa<g ref="char:EOLhyphen"/>craments</hi> will ſuddenly ſinke. As ſhall, with Gods bleſſing, be fully manifeſted, when it ſhall pleaſe him to afford us a Preſſe and Paper.</p>
+            <p n="16">16. In the meane ſpace, I could tell you of the <hi>Biſhop</hi> of <hi>Norwich,</hi> and ſome others, that have often foiled your Cham<g ref="char:EOLhyphen"/>pion, and ſend you to review their Workes. But I ſhall not boaſt of other mens ſtrength, nor relye upon their Weapons, though they be keene enough for that purpoſe. I ſhall joyne with you upon a ſhorter iſſue. Briefly then thus.</p>
+            <p n="17">17. I yeeld it to be true, ſetting by the Poſtſcripts to <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> and <hi>Titus,</hi> that <hi>the word</hi> Presbyter, <hi>and the word</hi> Biſhop, <hi>doe in Scripture intend and ſignifie one and the ſame Function.</hi> And yet theſe your inferences are moſt falſe; namely firſt, that
+<note n="d" place="margin">Ib.</note> 
+               <hi>the Title of</hi> Biſhop, <hi>hath been by corrupt cuſtome appro<g ref="char:EOLhyphen"/>priated to one.</hi> 2. That
+<note n="e" place="margin">
+                  <hi>Ib. p.</hi> 2.</note> 
+               <hi>this Title hath been by him aſſumed, as in other things, ſo in Ordination.</hi> 3. That
+<note n="f" place="margin">Ib.</note> 
+               <hi>this Ordination is performed by him</hi> (the Biſhop being) <hi>a Presbyter.</hi> 4. That
+<note n="g" place="margin">Ib.</note> 
+               <hi>Presbyters ſo ordained may ordaine other Presbyters.</hi> 5. That
+<note n="h" place="margin">Ib.</note> 
+               <hi>Ordination by preaching Presbyters, is an Ordinance of Chriſt.</hi> Theſe are your owne Propoſitions; and with theſe, by
+<pb n="7" facs="tcp:61278:5"/>Gods grace, I ſhall deale ſeverally, as they lye in your owne words.</p>
+            <div n="1" type="proposition">
+               <head>The firſt Propoſition.</head>
+               <head type="sub">The Title of <hi>Biſhop</hi> hath been by corrupt custome appropriated to one.</head>
+               <p n="18">18. THis Propoſition is falſe; it was no <hi>corrupt cuſtome,</hi> but uncorrupt diſcretion, that <hi>appropriated the Title of Biſhop to one,</hi> in every ſeverall Dioceſſe. It was done by thoſe, who deteſted <hi>corruption</hi> with a perfect hatred. But this Title was not ſo <hi>appropriated to one,</hi> as to his perſon, that might be layed downe at the yeares end, as the Title of Major in a Corporation; but it was appropriated to his <hi>Office</hi> or <hi>Order;</hi> and not given him, till he were of a ſeverall <hi>Order</hi> from <hi>Pres<g ref="char:EOLhyphen"/>byter;</hi> which <hi>Order</hi> and <hi>Title</hi> can never be layed aſide, or ta<g ref="char:EOLhyphen"/>ken from him.</p>
+               <p n="19">19. Give me leave therefore to tell you, that the ſtate of the queſtion is miſtaken by too many. For it is not, <hi>whether the word Biſhop and the word Presbyter doe in Scriptures ſignifie one and the ſame Function?</hi> not yet, <hi>whether a Biſhop and a Presbyter be of one and the ſame Order in Scripture?</hi> But the queſtion rightly ſtated, is this; <hi>Whether there be an Order in Scripture diſtinct from the Order of</hi> Presbyter, <hi>and Superiour to that Order?</hi>
+               </p>
+               <p n="20">20. To quarrell about names and words had not wont to be the cuſtome of the Church of Chriſt: for plaine it is, that we ſpeak not alwaies, as the Scripture ſpeakes. The Scripture calls
+<note n="i" place="margin">
+                     <hi>Sacramen<g ref="char:EOLhyphen"/>tum hoc mag<g ref="char:EOLhyphen"/>num e<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> So S. <hi>Hierom</hi> reads, Eph. 5.32.</note> 
+                  <hi>Matrimony a Sacrament;</hi> if we beleive S, <hi>Hierom</hi> &amp; the Latine Fathers, from whom we borrow the word <hi>Sacrament;</hi> and yet we call it not ſo. The Scripture never calls <hi>Baptiſme,</hi> or the <hi>Lords Supper, a Sacrament,</hi> and yet we call them both ſo, and <hi>cuſtome</hi> hath appropriated that name to them; and yet no <hi>corrupt cuſtome,</hi> I hope. The reaſon is, becauſe we define a <hi>Sa<g ref="char:EOLhyphen"/>crament</hi> to be, <hi>an outward and viſible ſigne, of an inward and ſpi<g ref="char:EOLhyphen"/>rituall grace, given unto us, ordained by Chriſt himſelfe,</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ron. in</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 7.</note> 
+                  <hi>as a meanes whereby we receive the ſame, and a pledge to aſſure us
+<pb n="8" facs="tcp:61278:6"/>thereof.</hi> Now <hi>Baptiſme</hi> and the <hi>Lords Supper</hi> make good this definition, which <hi>Matrimouy</hi> doth not.</p>
+               <p n="21">21. Neither doth the ſame <hi>word</hi> in Scripture ſignifie al<g ref="char:EOLhyphen"/>wares the ſame <hi>Office</hi> and <hi>Order;</hi> no, not in the ſame place and verſe. If queſtion be made, whether there were but <hi>one High-Prieſt</hi> at one time in the Iewiſh Church; we anſwer poſitive<g ref="char:EOLhyphen"/>ly, but one. That is, but one ſtrictly, and properly ſo called. And yet we find <hi>many High-Prieſts</hi> at the ſame time. S. <hi>Mar.</hi> 14.1. S. <hi>Luc.</hi> 22.2. S. <hi>Ioh.</hi> 11.47. But we ſay not, that all theſe were <hi>High-Prieſts</hi> ſtrictly and properly ſo called, not <hi>Pontifices ſimpliciter,</hi> but <hi>ſecundum quid,</hi> in reſpect of their brethren, who were under their charge. And theſe are called <hi>the chiefe</hi> or <hi>principall Fathers of the Priests.</hi> 1. Chron. 24.6. <hi>&amp;</hi> 31.</p>
+               <p n="22">22. Not in the ſame place and verſe. For S. <hi>Mat.</hi> 26.3. we find <hi>many High-Prieſts,</hi> and <hi>one High-Prieſt. Many High-Prieſts</hi> aſſemble together unto the Palace of <hi>Caiphas the High Prieſt.</hi>
+                  <note n="k" place="margin">S. Mat. 26.3.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And yet but one of theſe was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, properly <hi>the High-Prieſt;</hi>
+                  <note n="l" place="margin">Heb. 9.7.</note> no other but he, but that one, might go into the <hi>Sancta San<g ref="char:EOLhyphen"/>ctorum, the holyeſt of all.</hi>
+                  <note n="m" place="margin">Num. 8.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Lyra in</hi> Num. 8.5.</note> None of them, but he onely, could Ordaine or Conſecrate a <hi>Prieſt:</hi> and
+<note n="n" place="margin">1. Chron. 24.18.</note> none of them, but he, had juriſdiction over all the Sonnes of <hi>Levi.</hi>
+               </p>
+               <p n="23">23. Thus we finde <hi>one Biſhop</hi> and <hi>many Biſhops</hi> in <hi>Aſia</hi> and <hi>Creet. Titus</hi> is the <hi>Biſhop</hi> of <hi>Creet,</hi> and yet in that Citty there were many <hi>Biſhops.</hi> For he that is called a <hi>Presbyter,</hi> v. 5. is called a <hi>Biſhop.</hi> v. 7. Thus was it in <hi>Aſia.</hi> But the title of <hi>Bi<g ref="char:EOLhyphen"/>ſhop,</hi> even in thoſe times was appropriated to <hi>Timothy</hi> and <hi>Ti<g ref="char:EOLhyphen"/>tus,</hi> as is evident in the Poſtſcripts to thoſe Epiſtles, wherein the former is called <hi>Biſhop of the Aſians,</hi> and <hi>Titus Biſhop of the Cretians.</hi> Theſe are they, that were truly and properly named <hi>Biſhops of thoſe Churches.</hi> In Scripture we find them termed ſo; it cannot be denyed. <hi>Beza</hi> is my witneſſe, who met with no <hi>Manuſcript,</hi> without theſe Poſtſcripts. And, I hope, <hi>Beza</hi> is no abettor of <hi>corruptions</hi> in Scripture.</p>
+               <p n="24">24. <hi>Timothy</hi> and <hi>Titus</hi> were ordained by S<hi rend="sup">t</hi> 
+                  <hi>Paul;</hi> and by him, for ought any man can ſay, they were called <hi>Biſhops.</hi> I am
+<pb n="9" facs="tcp:61278:6"/>certaine, they are called ſo by the Spirit of God; or <hi>Beza</hi> hath abuſed us. And theſe, that are thus called ſo in thoſe places, were for their time, the only <hi>Biſhops</hi> of thoſe Churches. Theſe had Iuriſdiction ſpirituall over all Perſons in thoſe ſeverall Churches; not only over <hi>Lay-men</hi> and <hi>Deacons,</hi> but over the <hi>Presbyter-Biſhops</hi> alſo; even to convent, cenſure, ſilence, and to caſt them out of the Church. Theſe <hi>Biſhops</hi> alſo had the right and power of <hi>Ordination,</hi> which the <hi>Presbyter Biſhops</hi> never had.</p>
+               <p n="25">25. What? were they in thoſe times diſtinguiſhed only by <hi>right</hi> and <hi>power,</hi> and not by <hi>titles?</hi> No ſuch matter. Thoſe whom we now call <hi>Biſhops,</hi> were at the firſt named <hi>Apoſtles.</hi> But thoſe, whom we now call <hi>Presbyters,</hi> or <hi>Prieſts,</hi> were then indifferently ſtiled <hi>Biſhops</hi> or <hi>Presbyters.</hi> If I prove not this, I deſerve blame: but if I ſhall make this Aſſertion good, I ſhall doe the truth and you ſervice; and I hope, yee will doe the truth, and your ſelves that honour, as to lay the cenſure, where the fault is, even upon thoſe, that have miſled you.</p>
+               <p n="26">26. My firſt witneſſe ſhall be <hi>Theodoret;</hi> who certifies us, that
+<note n="o" place="margin">
+                     <hi>Theodorer. in</hi> Philip. 1.1.</note> while S<hi rend="sup">t</hi> 
+                  <hi>Pauls</hi> Epiſtles were writing, <hi>the ſame Perſons were called both</hi> Presbyters <hi>and</hi> Biſhops; <hi>but thoſe, who are now named</hi> BISHOPS, <hi>were then called</hi> APOSTLES. <hi>But in pro<g ref="char:EOLhyphen"/>ceſſe of time, the Title of</hi> APOSTLE <hi>was left to thoſe, who were</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, APOSTLES <hi>properly and truly ſo called. And the name of</hi> BISHOP <hi>was appropriated to thoſe, who here<g ref="char:EOLhyphen"/>tofore were called</hi> APOSTLES. With <hi>Theodoret</hi> accords S<hi rend="sup">t</hi> 
+                  <hi>Hierome,</hi> who teſtifies, that
+<note n="p" place="margin">
+                     <hi>Hieron. in</hi> Gal. 1.19.</note> 
+                  <hi>The Apoſtles ordained Apostles. Calvin</hi> ſaith as much upon 1. <hi>Cor.</hi> 4.9. So here are more <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> then twelve, or thirteene.</p>
+               <p n="27">27. Would you know, who are the <hi>Apostles,</hi> that theſe ſpeake of? The Scriptures tell us of
+<note n="q" place="margin">Gal. 1.19.</note> S<hi rend="sup">t</hi> 
+                  <hi>James,</hi> of
+<note n="r" place="margin">Philip. 2.25.</note> 
+                  <hi>Epaphro<g ref="char:EOLhyphen"/>ditus,</hi> an
+<note n="ſ" place="margin">1. Cor. 49.</note> 
+                  <hi>Apollo;</hi> who in their ſeverall places are expreſly galled <hi>Apoſtles.</hi> Witneſſe the Greeke Text, the originall Lan<g ref="char:EOLhyphen"/>cuage of thoſe Epiſtles. And S<hi rend="sup">t</hi> 
+                  <hi>Hierome</hi> juſtifies, that
+<note n="t" place="margin">
+                     <hi>Hieron. C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tal c.</hi> 4.</note> this S<hi rend="sup">t</hi> 
+                  <hi>James</hi> was <hi>Biſhop</hi> of <hi>Hieruſalem;</hi> but none of the <hi>Twelve,</hi> as too many ignorantly conceive; but
+<note n="u" place="margin">
+                     <hi>Hieron. in Eſ.</hi> 17.</note> 
+                  <hi>decimus tertius Aposto<g ref="char:EOLhyphen"/>lorum, the thirteenth Apoſtle.</hi> None of thoſe, that were im<g ref="char:EOLhyphen"/>mediatly
+<pb n="10" facs="tcp:61278:7"/>ordained by <hi>Chriſt</hi> himſelfe; he was
+<note n="*" place="margin">
+                     <hi>Hieron. in Catal. c.</hi> 4.</note> 
+                  <hi>ab ipſis Apo<g ref="char:EOLhyphen"/>ſtolis ordainatus, ordained by the Apoſtles ſuddenly after our Sa<g ref="char:EOLhyphen"/>viours Paſſion.</hi>
+                  <note n="x" place="margin">
+                     <hi>Theodoret. in Phil</hi> 2:25.</note> 
+                  <hi>Epaphroditus</hi> likewiſe was <hi>Biſhop</hi> of <hi>Phi<g ref="char:EOLhyphen"/>lippi,</hi> and
+<note n="y" place="margin">
+                     <hi>Hieron. in</hi> Tit. 3.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3</note> 
+                  <hi>Apollo, Biſhop</hi> of <hi>Corinth. Apoſtles</hi> in Scripture Language, but <hi>Biſhops</hi> in the Church Language. None of theſe were ordained by our Saviour, but by his <hi>Apoſtles;</hi> yet
+<note n="z" place="margin">
+                     <hi>Walo Meſ<g ref="char:EOLhyphen"/>ſal. p.</hi> 43.44.244.</note> theſe were of the ſame Order and Power with their Ordainers, and clearly of a different Order from <hi>Presbyters.</hi> You ſhall heare, what your deare friend <hi>Wale Meſſalinus</hi> ſpeakes.
+<note n="a" place="margin">
+                     <hi>Apoſtolorum tempore</hi> Apo<g ref="char:EOLunhyphen"/>ſtolos <hi>ipſos</hi> veros <hi>juiſſe Eccleſiarum</hi> Epiſcopos. E<g ref="char:EOLhyphen"/>piſcopos <hi>au<g ref="char:EOLhyphen"/>tem. qui tunc fic nominaba<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>tur, in</hi> Preſ<g ref="char:EOLhyphen"/>byterorum <hi>or<g ref="char:EOLhyphen"/>dine ſtetiſſe,</hi> quales nunc Epiſcopis ſub<g ref="char:EOLhyphen"/>diti ſunt. <hi>Walo Meſſal. p.</hi> 355.</note> 
+                  <hi>In the time of the Apoſtles, the</hi> APOSTLES <hi>themſelves were the</hi> TRUE BISHOPS <hi>of thoſe Churches. But they, who in thoſe times were called</hi> BISHOPS, <hi>were of the ſame Order with</hi> PRESBY<g ref="char:EOLhyphen"/>TERS, <hi>ſuch as now are</hi> SUBJECT TO BISHOPS. This he confeſſeth to be the common opinion of the Greeke Fathers: and ſurely they were as well ſkilled in Scriptures and Church Hiſtory, as any <hi>Elders</hi> in your divine <hi>Aſſembly.</hi>
+               </p>
+               <p n="28">28. The reaſon, why the Church of God ſo univerſally al<g ref="char:EOLhyphen"/>ter'd this Title of <hi>Apoſtle</hi> into <hi>Biſhop,</hi> is given by <hi>Theodoret;</hi> and this it is.
+<note n="b" place="margin">
+                     <hi>Theodoret. in</hi> 1. Tim. 3.1.</note> 
+                  <hi>That the name</hi> APOSTLE <hi>might be reſerved</hi> to thoſe, who were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, APOSTLES <hi>verily and in<g ref="char:EOLhyphen"/>deed,</hi> to thoſe, that were ordained by <hi>Chriſt</hi> himſelfe. Well, the end of this appropriation was, that the Church might ſettle and continue that neceſſary diſtinction betweene the <hi>Apoſtles</hi> ordained by <hi>Chriſt,</hi> the <hi>Apoſtles</hi> ordained by man, and <hi>Presbyters.</hi>
+               </p>
+               <p n="29">29. If this diſtinction had not been ſetled in time, how ſhould we have been able to know an <hi>Apoſtle</hi> properly ſo cal<g ref="char:EOLhyphen"/>led from an <hi>Apoſtle</hi> improperly ſo called? What a ſtrange confuſion would have overſpread the face of the Church, if <hi>Epaphroditus, Timothy,</hi> and <hi>Titus,</hi> had ſtill been called <hi>Apo<g ref="char:EOLhyphen"/>ſtles;</hi>
+                  <note n="c" place="margin">Ib.</note> as <hi>Theodoret</hi> juſtifies, they were in the Primitive times. If all of that Order had reteined the ſame Title, how ſhould we have been able to diſtinguiſh Saint <hi>Peter</hi> from <hi>Peter</hi> the <hi>Apoſtle</hi> of <hi>Alexandria;</hi> S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> from <hi>Paul</hi> the <hi>Apoſtle</hi> of <hi>Antioch;</hi> and S<hi rend="sup">t</hi> 
+                  <hi>John</hi> from <hi>John</hi> of <hi>Hieruſalem?</hi> Thus we ſhould have had not onely
+<note n="d" place="margin">2. Cor. 11.13.</note> 
+                  <hi>falſe Apostles,</hi> but Hereticall and Atheiſticall <hi>Apoſtles;</hi> which would have brought that Holy
+<pb n="11" facs="tcp:61278:7"/>and Reverend name into contempt. How ſhould we have knowne by whom the Canonicall Epiſtles had been written? For the Titles runne thus; <hi>The Epiſtle of Paul the Apoſtle; The Epiſtle of Peter the Apoſtle; of John the Apoſtle,</hi> &amp;c. So then if this diſtinction had not been provided, <hi>corruption</hi> upon <hi>corruption</hi> muſt have followed: for Epiſtles have been written by more <hi>Pauls</hi> then one, and thoſe <hi>Pauls, Apoſtles</hi> too.</p>
+               <p n="30">30. The diſtinction then was neceſſary; and though the <hi>Title</hi> were alterd, the <hi>Order</hi> was not, nor yet the <hi>Office.</hi> The Fathers conceived not, that they offer'd the leaſt affront or de<g ref="char:EOLhyphen"/>rogation to S<hi rend="sup">t</hi> 
+                  <hi>James,</hi> in calling him <hi>Biſhop,</hi> whom the Scrip<g ref="char:EOLhyphen"/>ture had honoured with the Title of <hi>Apoſtle.</hi> If they had dee<g ref="char:EOLhyphen"/>med ſo, either they would not have given him that appellati<g ref="char:EOLhyphen"/>on, or they would never have called his <hi>Epiſcopacy,</hi>
+                  <note n="e" place="margin">
+                     <hi>Ruſin. hiſti l.</hi> 2. <hi>c.</hi> 1.</note> 
+                  <hi>Primatûs gloriam, the glory of the Primacie,</hi> and
+<note n="f" place="margin">
+                     <hi>Euſeb. hiſt. l.</hi> 2. <hi>c.</hi> 1.</note> 
+                  <hi>an honour of no meane eſteeme.</hi> Neither had <hi>Timothy</hi> and <hi>Titus</hi> the leſſe honour or power, becauſe they were called <hi>Biſhops.</hi> What the <hi>Apostles</hi> could doe, which was of ordinary Juriſdiction and power, and neceſſary for the preſervation of the Church, that could they. <hi>Walo Meſſalinus,</hi> ſhewes much ingenuity in this acknow<g ref="char:EOLhyphen"/>ledgement.
+<note n="g" place="margin">
+                     <hi>Walo Meſ<g ref="char:EOLhyphen"/>ſal. p.</hi> 62.</note> EPISCOPI SUMMUM <hi>in Eccleſiaſtico ordine</hi> GRADUM <hi>obtinent, ut olim tennere, qui</hi> APOSTOLI <hi>voca<g ref="char:EOLhyphen"/>bantur.</hi> BISHOPS <hi>hold the</hi> CHIEFE DEGREE <hi>in the Ec<g ref="char:EOLhyphen"/>cleſiaſticall order, as heretofore they did, who were called</hi> A<g ref="char:EOLhyphen"/>POSTLES. But <hi>Apoſtles</hi> and <hi>Presbyters</hi> were never recko<g ref="char:EOLhyphen"/>ned to be of the ſame <hi>Order.</hi> The diſtinction is plaine, <hi>Act.</hi> 15.6.23. Where it is ſaid, that
+<note n="h" place="margin">Act. 15.6.</note> 
+                  <hi>The Apoſtles and Presbyters came together to conſider of this matter.</hi> And,
+<note n="i" place="margin">
+                     <hi>Ib. v.</hi> 23.</note> 
+                  <hi>The Apoſtles and Presbyters ſend greeting.</hi> This is readily acknowledged by S<hi rend="sup">t</hi> 
+                  <hi>Hierome</hi> and <hi>Walo Meſſalinus;</hi> as is manifeſted, §. 71.</p>
+               <p n="31">31. Agreed upon it is, that <hi>Apoſtles and Presbyters</hi> are not the ſame: if then <hi>Biſhops</hi> properly and ſtrictly ſo called, be of the ſame Order with the <hi>Apoſtles,</hi> it followes neceſſarily, that our <hi>Biſhops</hi> and <hi>Presbyters</hi> are not of one and the ſame <hi>Order</hi> or <hi>Function.</hi> Neither hath <hi>corrupt cuſtome,</hi> but Scripture it ſelfe made this diſtinction.</p>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="12" facs="tcp:61278:8"/>
+               <head>The ſecond Propoſition.</head>
+               <head type="sub">That the Title of <hi>Biſhop</hi> hath been by him <hi>(by this one)</hi> aſſumed, as in other things, ſo in the matter of Ordination.</head>
+               <p n="32">32. FIrſt <hi>appropriated</hi> and <hi>aſcribed,</hi> and then <hi>aſſumed.</hi> Not firſt <hi>aſſumed,</hi> and then <hi>appropriated.</hi> If then any fault be, fall it muſt upon the <hi>times,</hi> wherein that cuſtome prevai<g ref="char:EOLhyphen"/>led, or upon the <hi>Perſons,</hi> that <hi>aſcribed</hi> this <hi>Title</hi> to that one; not upon the <hi>Biſhops;</hi> for they aſſumed it not; it was firſt <hi>ap<g ref="char:EOLhyphen"/>propriated</hi> to them, by your owne confeſſion. But it was <hi>appro<g ref="char:EOLhyphen"/>priated and aſcribed</hi> unto them in <hi>corrupt</hi> times; truly no leſſe then 1600 yeares ſince, and <hi>aſſumed,</hi> or rather <hi>retained,</hi> to this day. And lawfull it is for me to <hi>aſſume</hi> (as you pleaſe to ſpeak) that, what ever it be, which hath,
+<note n="k" place="margin">See §. 23, 24. <hi>&amp;c.</hi>
+                  </note> upon ſo juſt grounds, been appropriated to me, as this Title was to the <hi>Order Apoſtolike.</hi> For it was done either by the <hi>Apoſtles</hi> themſelves, or by their <hi>Orthodox Schollers.</hi> How can yee ſay then, that
+<note n="l" place="margin">Ordin. p. 2.</note> 
+                  <hi>it was not meet?</hi>
+               </p>
+               <p n="33">33. But before I paſſe further, I cannot but take notice, that you, who have ſo highly cryed out upon <hi>Et Caetera,</hi> have ſlipt into the ſame error: for <hi>In other things,</hi> is neither better nor worſe, but a plaine <hi>&amp;c.</hi> which ought to have been avoided by ſuch wiſe men, as have condemned it with ſo much deteſta<g ref="char:EOLhyphen"/>tion. Secondly, you ſay, <hi>in the matter of Ordination.</hi> Herein had you conſulted with your <hi>Aſſembly</hi> men, certainly you would have ſtrook out <hi>matter;</hi> for the <hi>Greeke,</hi> and our Refor<g ref="char:EOLhyphen"/>med Churches uſe no matter, or element in <hi>Ordination.</hi> We uſe a <hi>Forme</hi> of words, and <hi>Impoſition of hands</hi> onely: ſuch Learned men cannot but know this. <hi>Matter</hi> was either igno<g ref="char:EOLhyphen"/>rantly, or ſuperfluouſly put in.</p>
+               <p n="34">34. But why hath the <hi>Title of Biſhop been aſſumed in Ordi<g ref="char:EOLhyphen"/>nation?</hi> Does the <hi>Title</hi> Ordaine? Is that ſufficiem? a Phraſe not eaſily conſtrued; it needs a Commentary from ſome of your <hi>Divines.</hi> In the mean time I ſhall gueſſe at your meaning, which I conceive to be this: <hi>He,</hi> to whom <hi>custome</hi> hath <hi>ap<g ref="char:EOLhyphen"/>propriated
+<pb n="13" facs="tcp:61278:8"/>the title of Biſhop,</hi> hath <hi>aſſumed Ordination</hi> to him<g ref="char:EOLhyphen"/>ſelfe. This being your meaning, I ſhall make bold to ſay, that this aſſertion is not true.</p>
+               <p n="35">35. The <hi>Biſhops</hi> aſſumed not, they took not this power of <hi>Ordination</hi> to themſelves; it was conferr'd upon them with their Orders. It is ſo innate, ſo inherent to that Order, which we now call <hi>Epiſcopacy,</hi> that no other Order may <hi>Ordaine.</hi> Not <hi>Deacons;</hi> ſo you ſay: not <hi>Presbyters;</hi> ſo
+<note n="m" place="margin">
+                     <hi>Epiphan. haer.</hi> 75.</note> 
+                  <hi>Epiphanius,</hi> and
+<note n="n" place="margin">
+                     <hi>Hieron. ad Evagr. Ep.</hi> 85.</note> S. <hi>Hierom;</hi> and with them all Antiquitie. In the New Teſta<g ref="char:EOLhyphen"/>ment this power is only given to the <hi>Apoſtles,</hi> or <hi>Biſhops,</hi> ſtrict<g ref="char:EOLhyphen"/>ly ſo called; and executed by them only. It was given to the <hi>A<g ref="char:EOLhyphen"/>postles,</hi> in
+<note n="o" place="margin">S. Mat. 10.8.</note> 
+                  <hi>Gratis accepiſtis, gratis date, freely ye have received, freely give,</hi> ſo
+<note n="p" place="margin">
+                     <hi>Ambroſ. de dignit. Sacer<g ref="char:EOLhyphen"/>dot. cap.</hi> 5.</note> S. <hi>Ambroſe,</hi> ſo
+<note n="q" place="margin">Hieron. in loc.</note> S. <hi>Hierome,</hi> ſo
+<note n="r" place="margin">
+                     <hi>Apud Bal<g ref="char:EOLhyphen"/>ſam p.</hi> 1085.</note> 
+                  <hi>Gennadius</hi> Pa<g ref="char:EOLhyphen"/>triarke of <hi>Conſtantinople,</hi> with the whole <hi>Synod</hi> of his Patriar<g ref="char:EOLhyphen"/>chate, to <hi>Biſhop Titus, Tit.</hi> 1.5. to <hi>Biſhop Timothy,</hi> 1. <hi>Tim.</hi> 5.22. and to <hi>Biſhop Epaphroditus,</hi> by <hi>Walo Meſſalinus</hi> confeſſi<g ref="char:EOLhyphen"/>on. p. 58.</p>
+               <p n="36">36. Practiſed it was only by <hi>Apoſtles,</hi> or <hi>Biſhops</hi> properly ſo called: in Scripture,
+<note n="ſ" place="margin">Act. 14.23.</note> by S. <hi>Paul</hi> and S. <hi>Barnabas,</hi>
+                  <note n="t" place="margin">1. Tim. 5.22.</note> by <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> and
+<note n="u" place="margin">Tit. 1.5.</note> 
+                  <hi>Titus.</hi> The
+<note n="*" place="margin">
+                     <hi>Hieron. Ca<g ref="char:EOLhyphen"/>tal. c.</hi> 16.</note> two former are known to be <hi>Apoſtles;</hi> the two latter are acknowledged by all antiquity to be <hi>Biſhops</hi> ſtrictly ſo called; which are the very ſame with <hi>Apoſtles.</hi> Though you will not believe me, I preſume, ye will not mi<g ref="char:EOLhyphen"/>ſtruſt <hi>Walo Meſſalinus</hi> his fidelity to your cauſe. His very words are theſe;
+<note n="x" place="margin">
+                     <hi>Walo Meſ<g ref="char:EOLhyphen"/>ſal. p.</hi> 44.</note> 
+                  <hi>Titus &amp; Timotheus Apoſtoli tunc nomina<g ref="char:EOLhyphen"/>bantur; &amp; REVERA ERANT EPISCOPI, J<g ref="char:V">Ʋ</g>RE EODEM ET ORDINE, quo hodiè ha<g ref="char:EOLhyphen"/>bertur, qui Eccleſiam regunt, &amp; Presbyteris praeſunt. Titus and Tymothy were named</hi> APOSTLES, <hi>and</hi> IN VERY TRVTH WERE BISHOPS, BY THE SAME RIGHT, AND OF THE SAME ORDER, <hi>that theſe are at this day, who govern the Church, and have command over Presbyters.</hi> So your own deareſt friend.</p>
+               <p n="37">37. But there can be no ſurer Commentary of our Savi<g ref="char:EOLhyphen"/>ours words, then the Apoſtles daily practice. And meet it is for us in theſe things to doe as they did. And ought not <hi>Biſhops</hi> to preſerve, as much as in them lyes, that power, which God in
+<pb n="14" facs="tcp:61278:9"/>his word hath committed to them.
+<note n="y" place="margin">1. Tim. 6.20.</note> 
+                  <hi>Depoſitum cuſtodi,</hi> is a full command, and of a large extent: that charge which S. <hi>Paul</hi> hath committed to <hi>Timothie's</hi> and every
+<note n="z" place="margin">
+                     <hi>Vincent. Ly<g ref="char:EOLhyphen"/>rin. c.</hi> 27.</note> 
+                  <hi>Biſhop's</hi> truſt, is not to be waved on any hand; carefully preſerved it muſt be. For doth not S. <hi>Paul</hi> charge <hi>Timothy</hi> to
+<note n="a" place="margin">2. Tim. 3.14.</note> 
+                  <hi>continue in thoſe things, which he hath both learned, and been aſſured of;</hi> and to
+<note n="b" place="margin">
+                     <hi>Ib. c.</hi> 4. <hi>v.</hi> 5.</note> 
+                  <hi>fulfill his Miniſtry;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>his owne Miniſtry,</hi>
+                  <note n="c" place="margin">
+                     <hi>Ib. c.</hi> 1. <hi>v.</hi> 6.</note> which was given unto him by the impoſition of S. <hi>Pauls</hi> hands. Surely we ought to doe ſo; and I hope, God will ſo enable our <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> that they ſhall diſcharge their duties, though it be with hazard of their lives. And a main part of their duty it is, to Or<g ref="char:EOLhyphen"/>daine <hi>Presbyters</hi> and <hi>Deacons.</hi> For to them, and to them on<g ref="char:EOLhyphen"/>ly, this power belongs; as ſhall be proved §. 51.52.</p>
+            </div>
+            <div n="3" type="proposition">
+               <head>The third Propoſition.</head>
+               <head type="sub">
+                  <hi>That</hi> Ordination performed by him <hi>(by the Biſhop, being)</hi> a Presbyter joyned with other Presbyters is, <hi>in your judgement,</hi> for ſubſtance valid, and not to be diſclaimed by any, that have received it.</head>
+               <p n="38">38. THe <hi>Biſhops</hi> are ſo much beholding to you, as to ac<g ref="char:EOLhyphen"/>kowledge them to be <hi>Presbyters,</hi> and their <hi>Ordina<g ref="char:EOLhyphen"/>tions valid,</hi> notwithſtanding their <hi>aſſumings</hi> and encroachings. Yee, take order therefore, that
+<note n="d" place="margin">Ord. p. 13.</note> a <hi>Presbyter ſo ordained ſhall be admitted to a charge,</hi> WITHOUT ANY NEW OR<g ref="char:EOLhyphen"/>DINATION.</p>
+               <p n="39">39. Notwithſtanding this your Magiſteriall definition, I muſt tell you, that this your Propoſition is partly true, partly falſe. True, in that an <hi>Ordination performed by a Biſhop, is valid.</hi> But falſe, that it is <hi>performed by him</hi> as a <hi>Presbyter.</hi> He ordaines not as a <hi>presbyter,</hi> but as a <hi>Biſhop;</hi> or if you will, is an <hi>Apoſtle Biſhop.</hi> Not by vertue of the Order of <hi>Presbyter,</hi> but by vertue of his <hi>Epiſcopall</hi> or <hi>Apoſtolicall Order.</hi>
+                  <note n="e" place="margin">
+                     <hi>Epiphan. haer.</hi> 75.</note> 
+                  <hi>Presbytero<g ref="char:EOLhyphen"/>rum enim Ordo non eſt potens generare patres;</hi> for this Order, <hi>the Order of Presbyters, is not able to beget Fathers,</hi> or Presby<g ref="char:EOLhyphen"/>ters,
+<pb n="15" facs="tcp:61278:9"/>
+                  <hi>but Children for the Church.</hi> And ſo no <hi>validitie</hi> in their Ordaining: as ſhall be more fully manifeſted in the Confuta<g ref="char:EOLhyphen"/>tion of your next Propoſition.</p>
+               <p n="40">40. Falſe like wiſe it is, That the <hi>Ordination</hi> is only ſo farre forth <hi>valid,</hi> as it is <hi>performed by a Biſhop ſoyned with Presby<g ref="char:EOLhyphen"/>ters. Biſhops</hi> you pull downe, as low as yee can; no Ordination good by a <hi>Biſhop</hi> without aſſiſting <hi>Presbyters;</hi> but a <hi>Miniſter</hi> is highly in your favour, he may, if you Authorize, Ordaine alone: for doe not you ſay, <hi>The Miniſter, that ordaineth?</hi> p. 13. But as you are out in affirming, that one, or many <hi>Presby<g ref="char:EOLhyphen"/>ters may Ordaine;</hi> ſo are you as wide from truth, in reſolving, that <hi>a Biſhop cannot Ordaine without presbyters joyned with him.</hi> For this is certaine, that the <hi>aſſiſting Presbyters are not of the eſſence of Ordination;</hi> for then were there no <hi>Ordination</hi> in the <hi>Greek Church,</hi> ſince therein <hi>Presbyters</hi> lay on no hands at all in <hi>Ordination.</hi> As
+<note n="f" place="margin">
+                     <hi>Pet. Arcud. de Concord. l.</hi> 6. <hi>c.</hi> 4. §. <hi>Igi<g ref="char:EOLhyphen"/>tur in.</hi>
+                  </note> 
+                  <hi>Petrus Aroudius</hi> manifeſts. Neither is there ſo much as mention made of <hi>Presbyters</hi> aſſiſting, or laying on their hands <hi>by,</hi> or <hi>with,</hi> or <hi>neare the Biſhops hands</hi> at Ordination, in all the <hi>Greeke Canons,</hi> or the <hi>Euchologue;</hi> but only of the <hi>Biſhop</hi> ordaining a <hi>Presbyter.</hi> They had an eye upon Scripture wherein they finde S. <hi>Paul</hi> alone, and <hi>Titus</hi> alone, and <hi>Timothy</hi> alone, ordaining without aſſiſtants. Yee are care<g ref="char:EOLhyphen"/>full to preſerve the credit of ſome late reformed Churches be<g ref="char:EOLhyphen"/>yond the Seas: give us leave to be tender of thoſe many and famous Churches in the Eaſt, the firſt, the learned churches of the world; from whom we received the Scriptures, and (if the Learned be not miſtaken) the beſt expoſitions thereof; even our <hi>Faith</hi> and <hi>Orders;</hi> though not immediatly.</p>
+               <p n="41">41. I muſt confeſſe, that in the <hi>Latine Churches</hi>
+                  <note n="g" place="margin">
+                     <hi>Concil. Car<g ref="char:EOLhyphen"/>thag.</hi> IIII. <hi>Can.</hi> 3.</note> 
+                  <hi>Presby<g ref="char:EOLhyphen"/>ters</hi> at the Ordination of a <hi>Prieſt,</hi> and of a <hi>Prieſt</hi> only, layed on their hands by the <hi>Biſhops</hi> hand. But theſe were for <hi>atte<g ref="char:EOLhyphen"/>ſtation,</hi> not for <hi>Ordination.</hi> The <hi>African</hi> Fathers therefore, that enjoyne this very Act of the <hi>Presbyters,</hi> aſcribe Ordina<g ref="char:EOLhyphen"/>tion wholy and only to the <hi>Biſhop:</hi> as is to be ſeen <hi>Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Afric.</hi> Can. 31.55, 80 &amp;c. A <hi>Biſhop</hi> therefore may Ordaine without the aſſiſtance of <hi>Presbyters,</hi> and the <hi>Ordination</hi> ſhall be <hi>good,</hi> though not Legall with us; becauſe the <hi>Biſhop</hi> may be juſtly
+<pb n="16" facs="tcp:61278:10"/>queſtioned and cenſured, for tranſgreſſing the <hi>Canons</hi> of our Church.</p>
+            </div>
+            <div n="4" type="proposition">
+               <head>The fourth Propoſition.</head>
+               <head type="sub">Presbyters ſo ordained, being lawfully thereunto ap<g ref="char:EOLhyphen"/>pointed and authorized, may ordaine other Preſ<g ref="char:EOLhyphen"/>byters.</head>
+               <p n="42">42. IT ſeems hereby, that <hi>Ordination</hi> is one thing, and <hi>law<g ref="char:EOLhyphen"/>full authorizing</hi> another. That is, if I miſtake not your meaning, when a <hi>Presbyter</hi> is ordained, he receives no ſuch power, till he be afterwards <hi>lawfully authorized</hi> by you, or ſuch as you are. And yet immediatly after, ye make
+<note n="h" place="margin">
+                     <hi>Ord. p.</hi> 2.</note> 
+                  <hi>lawfull calling and Ordaining</hi> to be one and the ſame. A <hi>Lawfulneſſe</hi> then there is in <hi>Ordination,</hi> without your concurrence or ap<g ref="char:EOLhyphen"/>probation. Yea, your own words are, that
+<note n="i" place="margin">
+                     <hi>Ph. p.</hi> 15.</note> 
+                  <hi>Presbyters</hi> OR<g ref="char:EOLhyphen"/>DAINED <hi>according to this Directory, ſhall be for ever re<g ref="char:EOLhyphen"/>puted and taken to</hi> ALL INTENTS AND PURPOSES, <hi>for</hi> LAWFULL <hi>and</hi> SUFFICIENTLY AUTHORIZED <hi>Miniſters of the Church of England, and capable of any Miniſteriall, im<g ref="char:EOLhyphen"/>ployment.</hi> If that be not home enough, obſerve. I beſeech you, how you reſolve, that every <hi>Miniſter,</hi> by impoſition of hands i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <note n="k" place="margin">
+                     <hi>Ib. p.</hi> 22.</note> 
+                  <hi>ſet a part to fulfill the worke of his Miniſtery</hi> IN ALL THINGS. Having then ſo full a Commiſſion given them in <hi>Ordination,</hi> how comes it to paſſe, that before they may <hi>Law<g ref="char:EOLhyphen"/>fully Ordaine,</hi> they muſt firſt be <hi>appointed and authorized</hi> by you.</p>
+               <p n="43">43. Is it a <hi>Miniſteriall Imployment</hi> to Ordaine? If it be ſo, then is every Miniſter by his Orders <hi>ſufficiently authorized</hi> to ordaine, by your own confeſſion. Is it no <hi>Miniſteriall imploy<g ref="char:EOLhyphen"/>ment?</hi> Then may Lay-men conferre Orders. But if you ſay ſo, you contradict your ſelves <hi>in terminis:</hi> for your own words are, that
+<note n="l" place="margin">
+                     <hi>Ib. p.</hi> 2.</note> 
+                  <hi>It is manifeſt by the word of God, that Ordination by</hi> PREACHING PRESBYTERS, <hi>is an Ordinance of Chriſt.</hi> But
+<note n="m" place="margin">Ib.</note> 
+                  <hi>No man ought to take upon him the office of a Miniſter, untill he be Lawfully called and Ordained.</hi> Ordination therefore be<g ref="char:EOLhyphen"/>longs not to Lay-men, but to <hi>Miniſters</hi> only, that's evident.</p>
+               <pb n="17" facs="tcp:61278:10"/>
+               <p n="44">44. But <hi>Ordaining;</hi> it ſeemes by you, is one thing, and <hi>authorizing</hi> another, <hi>Ordination</hi> you yeeld to the <hi>Presbyters,</hi> but <hi>authorizing</hi> you reſerve to your ſelves. And therein you deale evenly: for you have as much power to <hi>authorize,</hi> as they to <hi>Ordaine.</hi> You give them <hi>power to Ordaine,</hi> and they you <hi>power to Authorize:</hi> but neither of theſe is the grant, or ordinance of <hi>Chriſt.</hi> This then being a Miniſteriall act, and theſe being before <hi>ſufficiently authorized Miniſters in all things,</hi> how can it be, that they muſt be <hi>authorized by you</hi> Lay<g ref="char:EOLhyphen"/>men, before they may <hi>lawfully Ordaine?</hi> But ſo you have or<g ref="char:EOLhyphen"/>dained, and ſo it muſt be. Your <hi>Ordinance</hi> is your reaſon.</p>
+               <p n="45">45. You <hi>Authorize,</hi> and they <hi>Ordaine.</hi> Firſt yee <hi>Autho<g ref="char:EOLhyphen"/>rize,</hi> then they <hi>Ordaine;</hi> and without your <hi>Authorizing</hi> they may not <hi>Ordaine;</hi> leaſt their <hi>Ordinations</hi> be dangerous, if not invalid. For <hi>Ordained</hi> it is by you, that ſuch and ſuch Perſons in your <hi>Ordinance</hi> ſet downe, or <hi>any ſeven of them, may Ordaine Presbyters for twelve Moneths, and no longer.</hi> Then your <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> and their delegated authority expire, and others ſhall be ſet up, and <hi>authorized</hi> for this great worke. And ſo it ſhall be with you, as in <hi>Tertullian's</hi> time it was with ſome of your Brethren,
+<note n="*" place="margin">
+                     <hi>Tertul d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Praeſcrip. c.</hi> 41.</note> 
+                  <hi>Alius hodiè Epiſcopus, eras alius;</hi> A <hi>Biſhop</hi> to day, none to morrow; others muſt ſtep up, while theſe ſneake downe. Ordainers to day, none to morrow; Ordinance-ma<g ref="char:EOLhyphen"/>kers this day, none the next. Thus you put them in the ſame ſkale and condition with your ſelves.</p>
+               <p n="46">46. <hi>Presbyters ſo Ordained.</hi> I take to be thoſe, who in the former Propoſition are ſaid to be <hi>Ordained by a Presbyter-Biſhop joyned with other Presbyters, being lawfully thereunto appointed and authorized.</hi> But he is <hi>lawfully appointed and au<g ref="char:EOLhyphen"/>thorized,</hi> that is, appointed and authorized by the Supreme Legiſlator, and according to the Law by him preſcribed. We muſt therefore to the Law of <hi>Chriſt</hi> to learne, who is <hi>lawfully appointed and authorized</hi> to ordaine. For
+<note n="n" place="margin">Heb. 5.4.</note> 
+                  <hi>as no man takes this honour of Prieſthood to himſelfe, but he that is called of God, as Aaron was;</hi> ſo no man takes the honour or power of <hi>Ordina<g ref="char:EOLhyphen"/>tion</hi> to himſelfe, but he that is <hi>called of God</hi> to this Office, <hi>as Aaron was.</hi> For
+<note n="o" place="margin">
+                     <hi>Ib. v.</hi> 1.</note> 
+                  <hi>every High Prieſt taken from among men,
+<pb n="18" facs="tcp:61278:11"/>is Ordained for men in things pertaining to God.</hi> By <hi>Ordination</hi> then, which is <hi>Chriſts</hi> owne Inſtitution, and not from your, or any humane <hi>Ordinance,</hi> does the <hi>Prieſt,</hi> or (if you pleaſe) <hi>Mi<g ref="char:EOLhyphen"/>niſter,</hi> receive power <hi>in thoſe things, which pertaine to God.</hi> Witneſſe the <hi>Church of England,</hi> which in her <hi>Articles</hi> con<g ref="char:EOLhyphen"/>firmed by Parliament teacheth us, that
+<note n="p" place="margin">
+                     <hi>Art.</hi> 23.</note> WE OUGHT <hi>to judge thoſe</hi> LAWFULLY CALLED <hi>and ſent, who are choſen and called to this work by men,</hi> WHO HAVE PUBLICK AU<g ref="char:EOLhyphen"/>THORITY GIVEN VNTO THEM <hi>in the Congregation, to call and ſend Miniſters into the Lords Vineyard.</hi> And your owne words are, that
+<note n="q" place="margin">
+                     <hi>Ord p.</hi> 12.</note> 
+                  <hi>in Ordination</hi> every Miniſter is <hi>ſet apart to fulfill this worke.</hi> What have they to doe then with your <hi>authorizing?</hi>
+               </p>
+               <p n="47">47. True it is, by humane Lawes <hi>Biſhops</hi> and <hi>Presbyters,</hi> have freedome granted to diſcharge their Offices in ſuch and ſuch places without moleſtation or controule, to gather their Tithes, as alſo their Revenues, and other profits ſetled upon them by the grace of Princes. But this is not to be <hi>lawfully authorized</hi> with an intrinſecall, but with an extrinſecall pow<g ref="char:EOLhyphen"/>er; that is, to have free Liberty to exerciſe that miniſteriall power, which by Impoſition of hands they had received be<g ref="char:EOLhyphen"/>fore, in ſeverall Cures alotted to them. And in what City or Towne they are not received to this freedome, they are com<g ref="char:EOLhyphen"/>manded to
+<note n="r" place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Mat. 10.14.</note> 
+                  <hi>ſhake off the duſt of their feet againſt it.</hi> But there followes an heavier doome in the next verſe; which God of his great goodneſſe avert from thoſe Cities and Pariſhes, which have had an hand in the ruine, or removall of their <hi>Biſhops</hi> or <hi>Presbyters.</hi> This ſeemed ſo impious an act to the Emperour <hi>Juſtinian,</hi> that he enacted this Law,
+<note n="ſ" place="margin">
+                     <hi>Iuſtinian. l.</hi> 35. <hi>c. de E<g ref="char:EOLhyphen"/>piſc. &amp; Cler.</hi>
+                  </note> 
+                  <hi>ſi quis audeat civitatem ſuo privare Epiſcopatu, infamis redditur; if any man dare de<g ref="char:EOLhyphen"/>prive a City of her Biſhopricke, he becomes an infamous perſon.</hi> O, my great Maſters, in what ſtate are they, that rob whole Kingdomes of their Biſhoprickes, and have made a Covenant with Hell to extirpate the office?</p>
+               <p n="48">48. But by the way, I cannot but take notice, that he, who hath been ordained, according to our <hi>book of Ordination,</hi> by a <hi>Biſhop</hi> aſſiſted with <hi>Presbyters,</hi> is lawfully ordained. For your
+<pb n="19" facs="tcp:61278:11"/>owne, wordes are, that
+<note n="t" place="margin">
+                     <hi>Ord. p.</hi> 2.</note> 
+                  <hi>you hold his Ordination for ſubſtance valid, and not to be diſclaimed by any, that have received it</hi> after this manner. But I ſhall manifeſt, that one or many <hi>Presbyters,</hi> as <hi>Presbyters,</hi> may not <hi>ordaine:</hi> neither may <hi>Presbyters</hi> be <hi>authorized</hi> to ordaine.</p>
+               <p n="49">49. That one or many <hi>Presbyters quatenus,</hi> as Presbyters, may not <hi>Ordaine,</hi> or conferre any Spirituall Order, I prove firſt from your owne grant: for you reſolve, that
+<note n="u" place="margin">Ib.</note> 
+                  <hi>It is manifeſt by the word of God, that no man ought to take upon him the office of a Miniſter, untill he be lawfully called and ordained thereunto;</hi> unto that Office or Miniſterie. That muſt be the meaning; and that's moſt true, and agreed upon by the whole Church of God. For the lawfulneſſe thereof we appeale to the Law of <hi>Chriſt.</hi>
+               </p>
+               <p n="50">50. <hi>Three Orders of Miniſters</hi> we find in the <hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> which are often mentioned by the moſt Ancient Fathers, and have alwayes been continued in the Catholike Church; firſt <hi>Apoſtles,</hi> or <hi>Biſhops</hi> ſtrictly ſo called; ſecondly <hi>Presbyters,</hi> and thirdly <hi>Deacons.</hi> Confeſſed it is on all hands, that a <hi>Dea<g ref="char:EOLhyphen"/>con</hi> may neither conſecrate the <hi>Lords Supper;</hi> nor abſolve, much leſſe ordaine one to performe thoſe offices. The reaſon is, becauſe it belongs not to his Office or Miniſtery. And I pre<g ref="char:EOLhyphen"/>ſume, it will prove to be as firme a truth, that a <hi>Presbyter</hi> may not <hi>Ordaine,</hi> becauſe it belongs not to his Office or Miniſterie. For though a <hi>Presbyter</hi> by his Ordere receive power to Con<g ref="char:EOLhyphen"/>ſecrate the Euchariſt, and abſolve a Penitent, he receives no power to ordaine. Being then not <hi>lawfully called and ordained thereunto, he ought not to take upon him this Office,</hi> by your owne confeſſion.</p>
+               <p n="51">51 My iſſue is this. They onely have power to Ordaine, who have this power given them by <hi>Chriſt,</hi> and the word of <hi>Chriſt.</hi> But to the <hi>Apoſtles</hi> onely, or <hi>Biſhops</hi> ſtrictly ſo called, is this power given by <hi>Chriſt</hi> and his word. Therefore <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> onely, or <hi>Biſhops</hi> ſtrictly ſo called, have power to ordaine. The <hi>Major</hi> is firme, and agreed upon. The <hi>Minor</hi> onely is doubted of: I ſhall addreſſe my ſelfe therefore to juſtifie the <hi>Minor.</hi>
+               </p>
+               <pb n="20" facs="tcp:61278:12"/>
+               <p n="52">52. That the <hi>power of Ordination</hi> is neither given to, nor executed by any meere creature in the <hi>New Teſtament,</hi> but onely to and by, <hi>Apoſtles</hi> or <hi>Biſhops</hi> ſtrictly ſo called (who are of the ſame Order with <hi>Apoſtles</hi>) is evident by our Saviour's Commiſſion immediatly iſſuing from himſelfe, and explained by Saint <hi>Paul.</hi>
+               </p>
+               <p n="53">53. Our Saviour's Commiſſion to his <hi>Apoſtles</hi> was this,
+<note n="*" place="margin">
+                     <hi>S.</hi> Mat. 10.8.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>A gift yee have received, give this gift,</hi> ſo the Greekes: but we, <hi>freely yee have received, free<g ref="char:EOLhyphen"/>ly give,</hi> what yee have received. That is, ſaith <hi>Gennadius</hi> Pa<g ref="char:EOLhyphen"/>triarch of <hi>Conſtantinople,</hi>
+                  <note n="x" place="margin">
+                     <hi>Apud Bal<g ref="char:EOLhyphen"/>ſam. p.</hi> 1085.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>of me, you have received this dignity of Prieſt<g ref="char:EOLhyphen"/>hood; freely yee have received it, freely give it.</hi> Neither is this the ſence of <hi>Gennadius</hi> alone, but of 73 <hi>Biſhops</hi> more, that con<g ref="char:EOLhyphen"/>curre with him in this Expoſition. If theſe be not enough, I can tell you of
+<note n="y" place="margin">
+                     <hi>Ambroſ. de dignit. Sacerd. c.</hi> 5.</note> Saint <hi>Ambroſe,</hi>
+                  <note n="z" place="margin">
+                     <hi>Hieron. in</hi> Mat. 10.8.</note> Saint <hi>Hierome,</hi> and others, that concurre with him in the ſame opinion.</p>
+               <p n="54">54. This Commiſſion was given to the <hi>Apoſtles;</hi> them onely he <hi>called, v.</hi> 1. and thoſe onely at that time he <hi>ſent</hi> with that Commiſſion, <hi>v.</hi> 5. But given it was not to the <hi>Seventie:</hi> and hence it is, that not onely their number, but their names alſo are preciſely ſet downe, <hi>v.</hi> 2, 3, 4. that ſo there might be no miſtake at all in the Commiſſion. And as it was given to the <hi>Apoſtles</hi> onely, ſo was it executed by them, and others of their ranke: but not by the <hi>Seventie,</hi> not by the <hi>Diſciples</hi> or <hi>Presbyters.</hi> This is evident by Scripture and Church-hiſtorie. By <hi>Scripture;</hi> S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> and S<hi rend="sup">t</hi> 
+                  <hi>Barnabas</hi> were <hi>Apoſtles,</hi> and they <hi>Ordaine Presbyters in every Church, Act.</hi> 14.23. And Saint <hi>Paul</hi> ordaines <hi>Timothy,</hi> 2. <hi>Tim.</hi> 1.6. By Church-hiſtorie;
+<note n="a" place="margin">
+                     <hi>Hieron. Ca<g ref="char:EOLhyphen"/>tal. c.</hi> 4.</note> The <hi>Apoſtles</hi> ordained S. <hi>James</hi> Biſhop of <hi>Hieruſalem.</hi>
+                  <note n="b" place="margin">
+                     <hi>Theodoret Dial.</hi> 1.</note> S. <hi>Peter</hi> ordained <hi>Ignatius</hi> Biſhop of <hi>Antioch:</hi> and
+<note n="c" place="margin">
+                     <hi>Euſeb hiſt. l.</hi> 3. <hi>c.</hi> 17.</note> S. <hi>John</hi> ordained many Biſhops in <hi>Aſia.</hi> I make bold with <hi>Church Hiſtory,</hi> becauſe you allow thereof, and ordaine,
+<note n="d" place="margin">
+                     <hi>Ord. p</hi> 6.</note> that they, who are deſirous of Orders, <hi>ſhall have triall made of their skill in Eccleſiasticall History.</hi>
+               </p>
+               <p n="55">55. <hi>Titus</hi> and <hi>Timothy</hi> were <hi>Apoſtles</hi> alſo; if we give cre<g ref="char:EOLhyphen"/>dit to
+<note n="e" place="margin">
+                     <hi>Ignat. ad</hi> E<g ref="char:EOLhyphen"/>pheſ. <hi>p.</hi> 226.</note> 
+                  <hi>Ignatius</hi> and
+<note n="f" place="margin">
+                     <hi>Theodoret. in</hi> 1. Tim. 3.1.</note> 
+                  <hi>Theodoret;</hi> to them the ſame <hi>power of
+<pb n="21" facs="tcp:61278:12"/>Order</hi> is committed, which was to thoſe
+<note n="g" place="margin">2. Cor. 11.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>chiefe Apoſtles.</hi> To <hi>Titus;</hi>
+                  <note n="h" place="margin">Tit. 1.5.</note> 
+                  <hi>For this cauſe left I thee at Creet, that</hi> THOU SHOULD'ST ORDAINE PRESBYTERS, <hi>or El<g ref="char:EOLhyphen"/>ders,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>as I have appointed thee:</hi> not as it ſhall pleaſe an Ordinance of Lay-men to <hi>appoint</hi> thee. The ſame power is acknowledged to be in <hi>Timothy,</hi> 1. Tim. 5.22. <hi>Lay hands ſuddenly on no man.</hi> And in <hi>Epaphroditus,</hi> by a good friend of yours; who ingenuouſly confeſſeth, that
+<note n="i" place="margin">
+                     <hi>Ad Philip<g ref="char:EOLhyphen"/>penſes Epa<g ref="char:EOLhyphen"/>phreditu<g ref="char:cmbAbbrStroke">̄</g> mi<g ref="char:EOLhyphen"/>ſerat; ad Ec<g ref="char:EOLhyphen"/>cleſiam eorum conſirma<g ref="char:cmbAbbrStroke">̄</g>dam, &amp; conſtitu<g ref="char:EOLhyphen"/>endos in eâ Presbyteros &amp; Epiſcopos,</hi> Walo Meſſal, p. 58.</note> 
+                  <hi>Saint Paul ſent Epaphroditus to the Philippians, to Ordaine Presbyters in that Church.</hi>
+               </p>
+               <p n="56">56. Can you ſhew in Scripture, or Eccleſiaſticall Hiſtorie, that the <hi>power of Ordination</hi> was given to, or acknowledged to be in one, or many <hi>Presbyters?</hi> Can you prove, that ever this power was exerciſed by one, or many <hi>Presbyters,</hi> and not cenſured for a nullity, not diſclaimed as never done?</p>
+               <p n="57">57. I queſtion not, but you will preſently turne me to your old and often anſwered Argument, 1. <hi>Tim.</hi> 4.14. <hi>Neglect not the gift, that is in thee, which was given thee by prophecye, with the</hi> LAYING ON OF THE HANDS OF THE PRESBYTERY. Therefore <hi>Timothy</hi> was ordained by <hi>Presbyters:</hi> and if <hi>Timothy,</hi> then may others alſo. This is the <hi>Crambe,</hi> the old burre, with which you hope at length to choke us.</p>
+               <p n="58">58. Firſt, I cannot but acknowledge, that <hi>Timothies</hi> Ordi<g ref="char:EOLhyphen"/>nation was orderly and legall. Secondly, I yeeld readily, that others may be ordained legally and commendably as he was. But withall I muſt tell you, that <hi>Timothy</hi> was ordained either by S. <hi>Paul</hi> alone, or by S. <hi>Paul</hi> with other of the <hi>Presbytery.</hi> That he was ordained by S. <hi>Paul</hi> alone, is the opinion of your great Maſter <hi>Calvin,</hi> and he hath Scripture to juſtifie it. <hi>Cal<g ref="char:EOLhyphen"/>vin's</hi> reſolution is plaine and full;
+<note n="k" place="margin">
+                     <hi>Calvin. In<g ref="char:EOLhyphen"/>stat. l.</hi> 4. <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> §. 16.</note> 
+                  <hi>Paulus ipſe SE, NON ALIOS COMPL<g ref="char:V">Ʋ</g>RES, Timotheo manus impoſniſſe commemorat: Saint Paul himſelfe acquaints us, that</hi> HIM<g ref="char:EOLhyphen"/>SELFE, NOT ANY MORE, or other with him, <hi>layed hands upon Timothy.</hi> Excluſively, <hi>himſelfe, not any other;</hi> marke that.</p>
+               <p n="59">59. The text which confirmes this, is cited by <hi>Calvin</hi> in
+<pb n="22" facs="tcp:61278:13"/>the ſame place; and this it is.
+<note n="l" place="margin">2. Tim. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6.</note> 
+                  <hi>Stirre up the gift of God, which is in thee, by the</hi> PUTTING ON OF MY HANDS. Evident it is, that this was done by Saint <hi>Paul.</hi> The truth is,
+<note n="m" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Ig<g ref="char:EOLhyphen"/>nat. ad Phila<g ref="char:EOLhyphen"/>delph <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 14.</note> the <hi>Apoſtles</hi> in thoſe dayes were called the <hi>Presbytery.</hi> Witneſſe <hi>Ignatius,</hi>
+                  <note n="n" place="margin">
+                     <hi>Hieron. Catal.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.27.</note> who lived in thoſe times; and your pre<g ref="char:EOLhyphen"/>ſent friend <hi>Walo Meſſalinus</hi> in theſe words,
+<note n="o" place="margin">
+                     <hi>Walo Meſ<g ref="char:EOLhyphen"/>ſal. p.</hi> 21.</note> 
+                  <hi>Apoſtoli Preſ<g ref="char:EOLhyphen"/>byterium Hieroſolymitanae Eccleſiae conſtituunt; the Apoſtles were</hi> (in thoſe times) <hi>the Presbytery of the Church at Hieru<g ref="char:EOLhyphen"/>ſalem.</hi> And what the <hi>Apoſtles</hi> were then and there, they were alſo in other Churches, where they came; no queſtion to be made of that. And what power was in all the <hi>Apoſtles</hi> toge<g ref="char:EOLhyphen"/>ther, in reſpect of any Miniſteriall duty, was in every one of them in particular, and by himſelfe. Otherwiſe, how could every ſingle <hi>Apostle,</hi> when their Colledge was diſſolved, and they diſperſed into ſeverall Countries for the worke of the Goſpell, performe his Office validly and effectually?</p>
+               <p n="60">60. But ſuppoſe the moſt, that can be ſuppoſed, either you muſt give S. <hi>Paul</hi> the lye, or elſe you muſt confeſſe, that Saint <hi>Paul</hi> was one of thoſe, that ordained <hi>Timothy.</hi> So then, to keep cloſe to this preſident; an <hi>Apoſtle,</hi> or one of the ſame Order with an <hi>Apoſtle,</hi> muſt have a chiefe hand in Ordination. This ſerves to juſtifie the courſe of our Church; but it con<g ref="char:EOLhyphen"/>demnes your new Ordinance, which authorizeth <hi>Presbyters</hi> alone, without a <hi>Biſhop</hi> or <hi>Apoſtle</hi> to ordaine.</p>
+               <p n="61">61. <hi>Timothy</hi> was ordained by an <hi>Apoſtle,</hi> though perchance not by an <hi>Apoſtle</hi> alone: and as <hi>Timothy,</hi> ſo were all other or<g ref="char:EOLhyphen"/>dained by <hi>Apoſtles,</hi> or by ſuch, as were of the ſame Order with the <hi>Apoſtles,</hi> and ſucceeded them in their Office.
+<note n="p" place="margin">
+                     <hi>Hieron cont. Montani in<g ref="char:EOLhyphen"/>ſan. Ep.</hi> 54.</note> 
+                  <hi>Et apud nos Apoſtolorum locum tenent Epiſcopi;</hi> in S. <hi>Hieromes</hi> time, the <hi>Biſhops held the Apoſtles</hi> roome; and ſo they doe at this day. In his time <hi>Biſhops onely had the power of Ordination;</hi> but not <hi>Presbyters;</hi> and ſo is it with us at this preſent.
+<note n="q" place="margin">Biſhops have power to or<g ref="char:EOLhyphen"/>daine Presby<g ref="char:EOLhyphen"/>ters in every City. <hi>Hieron. in Tit.</hi> 1.5.</note> 
+                  <hi>EPISCOPI HABENT conſtituendi Presbyteros per urbes ſingulas POTESTATEM.</hi> But <hi>Presbyters</hi> have no ſuch power.
+<note n="r" place="margin">
+                     <hi>Hieron. ad Evag. Ep.</hi> 85.</note> 
+                  <hi>Quid facit EXCEPT A ORDINATIONE Epiſ<g ref="char:EOLhyphen"/>copus, quod Presbyter non facit?</hi> SET BY ORDINA<g ref="char:EOLhyphen"/>TION, <hi>and what doth a Biſhop, that a Presbyter doth not!</hi>
+                  <pb n="23" facs="tcp:61278:13"/>Saint <hi>Hierome</hi> diſtinguiſheth plainly between the power of a <hi>Biſhop,</hi> and the power of a <hi>Presbyter.</hi> Which extorted this confeſſion from <hi>Walo Meſſalinus,</hi> that
+<note n="ſ" place="margin">
+                     <hi>Walo. Meſ<g ref="char:EOLhyphen"/>ſal p.</hi> 288.</note> in S<hi rend="sup">t</hi> 
+                  <hi>Hieromes</hi> time, a <hi>Biſhop</hi> was diſtinguiſhed from a <hi>Presbyter, jure ordinand<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rum Clericorum, by the right of Ordination.</hi> In S. <hi>Hieromes</hi> dayes, a <hi>Presbyter</hi> might not Ordaine, no nor yet in the dayes of <hi>Atha<g ref="char:EOLhyphen"/>naſius,</hi> as is evident by that of <hi>Coluthus</hi> and <hi>Iſchyras.</hi>
+                  <note n="t" place="margin">
+                     <hi>Athan. A<g ref="char:EOLhyphen"/>pol.</hi> 2.</note> 
+                  <hi>Coluthus</hi> a <hi>Presbyter,</hi> took upon him to be a <hi>Biſhop,</hi> as ſome of the Aſſem<g ref="char:EOLhyphen"/>bly doe now, and preſumed to Ordaine one <hi>Iſchyras</hi> a <hi>Presby<g ref="char:EOLhyphen"/>ter.</hi> But for this preſumption, he was cenſured by <hi>Athanaſius</hi> and all the <hi>Biſhops</hi> of that Patriarchate, and
+<note n="u" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Ib.</hi>
+                  </note> this Impoſition of hands ſentenced to be no <hi>Ordination.</hi> And this cenſure was ſhortly after juſtified by foure Councells more, of no ſmall note. As is to be ſeen in the ſame Apologie.</p>
+               <p n="62">62. If you ſay, that this was adjudged a nullity, becauſe one, and not many <hi>Presbyters</hi> did it, <hi>Epiphanius</hi> tells you, that
+<note n="*" place="margin">
+                     <hi>Epiphan. haer.</hi> 75.</note> 
+                  <hi>Presbyterorum Ordo,</hi> the whole <hi>Order of Presbyters is not able to ordaine a Presbyter.</hi> How then can
+<note n="x" place="margin">
+                     <hi>Ord p.</hi> 3.</note> 
+                  <hi>ſeven Presbyters</hi> be <hi>lawfully appointed and authorized to Ordaine?</hi> Can you <hi>autho<g ref="char:EOLhyphen"/>rize</hi> a Woman to Preach, or Baptize? Or a <hi>Deacon</hi> to Conſe<g ref="char:EOLhyphen"/>crate the Supper of <hi>Christ?</hi> when you prove this, I ſhall in<g ref="char:EOLhyphen"/>cline to the other. But if <hi>Presbyters</hi> may ordaine, why did S<hi rend="sup">t</hi> 
+                  <hi>Paul,</hi> I pray you, ſend <hi>Epaphroditus</hi> an <hi>Apostle</hi> to <hi>Philippi,</hi> to ordaine Presbyters, where many <hi>Presbyters</hi> already were? That there were at <hi>Philippi divers Presbyters,</hi> is too plaine to be denied; for S. <hi>Paul</hi> writes
+<note n="y" place="margin">Philip. 1.1.</note> to the <hi>Biſhops and Deacons</hi> in that Citie. And thoſe <hi>Biſhops</hi> were but <hi>Presbyters;</hi> as is agreed on all hands. And yet that S. <hi>Paul</hi> ſent <hi>Epaphroditus</hi> thither to ordaine <hi>Presbyters,</hi> is acknowledged by <hi>Walo Meſ<g ref="char:EOLhyphen"/>ſal. p.</hi> 58. Thus at <hi>Epheſus</hi> were many <hi>Presbyters,</hi> Act. 20.17. and yet S. <hi>Paul</hi> manifeſts, that the <hi>power of Ordination,</hi> as alſo of conventing and cenſuring <hi>Presbyters</hi> within that Dioceſſe, was in <hi>Timothy,</hi> and in <hi>Timothy</hi> only.</p>
+               <p n="63">63. No man, or <hi>Ordinance</hi> of man, can <hi>authorize</hi> me to doe any Miniſteriall act, which God hath not given me power to performe; that is, while I am in this condition; no more then you can <hi>authorize</hi> me, to flie in the aire. No man can give Au<g ref="char:EOLhyphen"/>thority to a <hi>Deacon,</hi> while a <hi>Deacon,</hi> to conſecrate the Lords
+<pb n="24" facs="tcp:61278:14"/>Supper, or to abſolve a Penitent. Neither can any authority give a <hi>Presbyter,</hi> while a <hi>Presbyter</hi> only, the <hi>power of Ordina<g ref="char:EOLhyphen"/>tion.</hi> The reaſon is, becauſe the God of all Power and Order hath aſſigned and appropriated this power to an higher Order; as hath been already demonſtrated.</p>
+               <p n="64">64. And yet, mauger Gods Ordinance,
+<note n="z" place="margin">Ord. p. 3.</note> yee <hi>appoint and authorize Doctor</hi> Cornelius Burges, <hi>Doctor</hi> William Gouge, and one and twenty more, <hi>or any ſeven of them to Ordaine Preſ<g ref="char:EOLhyphen"/>byters.</hi> But I beſeech you by what authority doe you make this <hi>Ordinance?</hi> For matters meerly ſpirituall, the old appeale had wont to be
+<note n="a" place="margin">Act. 24.14</note> 
+                  <hi>to the Law and the Prophets.</hi> Shew me in the Old or New Teſtament, that ever this power was in Lay-men, or given by Lay-men. The New Teſtament is ſo full, ſo plaine againſt you, that <hi>Calvines</hi> aſſertion is, that
+<note n="b" place="margin">
+                     <hi>Calvin. In<g ref="char:EOLhyphen"/>ſtit. l.</hi> 4. <hi>c.</hi> 3. §. 16.</note> 
+                  <hi>not the People, but the</hi> PASTORS ONLY, <hi>did lay hands upon their Miniſters.</hi> And your reſolution accords with his, <hi>viz.</hi> that <hi>it is an Ordi<g ref="char:EOLhyphen"/>nance of Chriſt, that Perſons be ſet apart for the Office of the Miniſtry by</hi> PREACHING PRESBYTERS.</p>
+               <p n="65">65. But in your language, I perceive, it is one thing to <hi>or<g ref="char:EOLhyphen"/>daine,</hi> another thing to <hi>authorize</hi> others to ordaine. Whereas to ſpeak truth,
+<note n="c" place="margin">Nemo poteſt plus juris con<g ref="char:EOLhyphen"/>ferre in a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iu<g ref="char:cmbAbbrStroke">̄</g>, quam ipſe habet.</note> 
+                  <hi>no man can conferre that ſpirituall power upon another, which he hath not in himſelfe.</hi> You aſſume not indeed to your ſelves the <hi>power to Ordaine;</hi> but how much doe you abate of it, when yee <hi>authorize</hi> others to ordaine? Make the beſt of it, it will returne to this iſſue, That either theſe <hi>Presby<g ref="char:EOLhyphen"/>ters,</hi> before your <hi>Ordinance</hi> was Voted, had power to ordaine, or elſe it was not in your power to <hi>authorize them to ordaine.</hi>
+               </p>
+               <p n="66">66. True it is, that a <hi>Prince,</hi> or <hi>State,</hi> may give leave, or not leave, to a <hi>Biſhop</hi> to ordaine, and to a <hi>Presbyter</hi> to exerciſe his Prieſtly Office within their ſeverall Dominions. But this is only the power of Licence; it gives them liberty, but not au<g ref="char:EOLhyphen"/>thority to <hi>ordaine,</hi> or Preach. Suppoſe a <hi>Biſhop</hi> aſſiſted with <hi>Presbyters,</hi> ſhould ordain without your Licence in the aſſocia<g ref="char:EOLhyphen"/>ted Counties, were there a nullity in the <hi>Ordination?</hi> I beleeve, your bleſſed <hi>Aſſembly</hi> will not ſay ſo. If they doe, they gain<g ref="char:EOLhyphen"/>ſay your third Propoſition; and the Scripture gainſayes them. For though the Governours of <hi>Hieruſalem</hi> had charged the <hi>Apoſtles,</hi> that
+<note n="d" place="margin">Act. 4.18.</note> 
+                  <hi>they ſhould not Preach in the Name of Jeſus;</hi>
+                  <pb n="25" facs="tcp:61278:14"/>yet they profeſſe, that
+<note n="e" place="margin">
+                     <hi>Ib. v.</hi> 20.</note> 
+                  <hi>they cannot but ſpeak the things, which they have ſeen and heard:</hi> and that
+<note n="f" place="margin">Act. 5.29.</note> 
+                  <hi>they ought to obey God, ra<g ref="char:EOLhyphen"/>ther then man. God,</hi> that had given them the power and charge, <hi>rather then man,</hi> that had diſcharged them.</p>
+               <p n="67">67. If you think the caſe is otherwiſe in Preaching then Ordaining, you ſhall ſee, that
+<note n="g" place="margin">Act. 13.50. &amp; cap. 14.5, 19.</note> when S. <hi>Paul</hi> and S. <hi>Barnabas</hi> had been perſecuted at <hi>Antioch,</hi> and <hi>Iconium, and Lyſtra;</hi> though the <hi>Rulers</hi> had <hi>uſed them despightfully,</hi> and
+<note n="h" place="margin">Act. 13.50.</note> 
+                  <hi>the chiefe men had expelled them out of their Coaſts,</hi> yet for all this
+<note n="i" place="margin">Act. 14.21.</note> from <hi>Derbe</hi> they returned againe to <hi>Lyſtra,</hi> and to <hi>Iconium,</hi> and to <hi>Antioch,</hi> and
+<note n="k" place="margin">
+                     <hi>Ib. v.</hi> 23.</note> 
+                  <hi>ordained them Presbyters in every Church.</hi> And thoſe <hi>Ordinations,</hi> I hope, were valid, though they were againſt the ſence of the State.</p>
+               <p n="68">68. If to <hi>authorize,</hi> be to give freedome, then may the <hi>Turke authorize,</hi> as well as you; and your <hi>authorizing</hi> is no more then his. And yet, I think, no Chriſtian will deny, but that thoſe <hi>Biſhops</hi> and <hi>Prieſts</hi> within the <hi>Turkes</hi> Territories ought to performe the duties of their ſeverall Orders, though the <hi>Grand Senior</hi> himſelfe inhibite them. But this muſt be done, not in contempt, but in obedience to authority; for
+<note n="l" place="margin">Rom. 13.1.</note> we muſt <hi>be ſubject to the higher powers.</hi> But <hi>God is higher then all earthly powers;</hi> we muſt therefore obey God. Thus farre then we yeeld obedience to God and his word.</p>
+               <p n="69">69. But S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi> commands us to
+<note n="m" place="margin">1. <hi>S.</hi> Per. 2.13.</note> 
+                  <hi>ſubmit to every Ordi<g ref="char:EOLhyphen"/>nance of man.</hi> He does indeed, and ſo we muſt, either by doing or ſuffering. We muſt either doe, what is injoyned, if ſo it may be done without offence to God: otherwiſe, if it may not be done, we muſt patiently ſuffer, what ſhall be inflicted: as God knowes a multitude of us have, ſince theſe times of triall. And herein the <hi>Turke</hi> reades to you a Lecture of juſtice: for he permits Chriſtians to enjoy their Religion according to the termes agreed upon: but without any horrid abjuration of their <hi>Faith,</hi> or <hi>Liturgy,</hi> or <hi>Canonicall obedience;</hi> as alſo with<g ref="char:EOLhyphen"/>out any ſuch unchriſtian <hi>Covenant to extirpate Epiſcopacy.</hi> A courſe unheard of among the Heathen; and ſavors ſtrongly of <hi>Antichriſt</hi> But a part it is of your Religion, to enforce men to forſweare their Religion and Allegiance. And herein you outſtrip <hi>Julian the Apoſtata,</hi> in his moſt barbarous ſubtilties.</p>
+               <pb n="26" facs="tcp:61278:15"/>
+               <p n="70">70. Your next Propoſition is moſt conſonant to veritie and Scripture; <hi>viz.</hi>
+                  <note n="n" place="margin">
+                     <hi>Ord. p.</hi> 2.</note> 
+                  <hi>That it is manifest by the word of God, that no man ought to take upon him the Office of a Miniſter, untill he be lawfully called and ordained thereunto.</hi> And I have already ſhewed, who are <hi>lawfully called and ordained.</hi> This being true, it may not be liſted in the number of your falſe Propoſitions, which I intend to confute. It ſhall therefore paſſe untouched, while I haſten to the following Propoſition, which deſerves a juſt cenſure.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>The fifth Propoſition.</head>
+               <head type="sub">The work of Ordination, that is to ſay, An outward ſolemne ſetting apart of Perſons for the Office of the Ministerie in the Church, by Preaching Preſ<g ref="char:EOLhyphen"/>byters, is an Ordinance of Christ.</head>
+               <p n="71">71. NOt ſo (my great Maſters) by <hi>Presbyters</hi> it is not; but by <hi>Biſhops</hi> ſtrictly ſo called, or (if you will) by <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> it is <hi>Chriſts</hi> owne <hi>Ordinance.</hi> The <hi>Seventy</hi> were <hi>Presby<g ref="char:EOLhyphen"/>ters,</hi> they ordained not, we find no ſuch Commiſſion given them. The <hi>Apoſtles</hi> did; becauſe upon them and their Suc<g ref="char:EOLhyphen"/>ceſſors onely in that Sacred Office and Order, our Saviour con<g ref="char:EOLhyphen"/>fer'd this power.</p>
+               <p n="72">72. That the <hi>Seventie</hi> were not of equall ranke or order with the <hi>Apoſtles,</hi> cannot be denied. If S. <hi>Hierome</hi> beare any ſway, he tells us, that
+<note n="o" place="margin">
+                     <hi>Hieron. Ep.</hi> 127. <hi>Manſ.</hi> 6.</note> 
+                  <hi>the ſeventy were, ſecundi ordinis, &amp; minoris gradûs, of a ſecond Order; and of a lower degree then the Twelve were of.</hi> And <hi>Walo Meſſalinus</hi> himſelfe profeſſeth, that
+<note n="p" place="margin">
+                     <hi>Walo. Meſ<g ref="char:EOLhyphen"/>ſal p.</hi> 26.27.</note> 
+                  <hi>the Greek interpreters obſerve, that the Apoſtles were of an higher dignity then Presbyters.</hi> And with them he reſolves, that
+<note n="q" place="margin">
+                     <hi>Ib. p.</hi> 269.</note> 
+                  <hi>they are of ſeverall Orders.</hi> And withall he fairely ac<g ref="char:EOLhyphen"/>knowledgeth, that
+<note n="r" place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>bi diſtin<g ref="char:EOLhyphen"/>gui ordines &amp; gradus caeptiſunt, at<g ref="char:EOLhyphen"/>que Epiſcopus major extitit Presbytero, tum Ordinatio non potuit u<g ref="char:EOLhyphen"/>trius<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> eſſe communis.</hi> Ib. p. 229.</note> 
+                  <hi>from the time theſe Orders were diſtingui<g ref="char:EOLhyphen"/>ſhed, and that a Biſhop became greater then a Presbyter,</hi> OR<g ref="char:EOLhyphen"/>DINATION COVLD NOT BE COMMON TO THEM BOTH. But theſe Orders were diſtinguiſhed in the <hi>Apoſtles</hi> times; as appears by <hi>Theodoret,</hi> and <hi>Beza's</hi> ſeverall Editions of the New Teſtament. From the <hi>Apoſtles</hi> times therefore <hi>both theſe could not Ordaine.</hi> Beſides <hi>two Orders</hi> they are; therefore not <hi>one</hi> and the ſame.</p>
+               <pb n="27" facs="tcp:61278:15"/>
+               <p n="73">73. Yea, they were diſtinct, while the Apoſtles lived here on earth. If <hi>Walo Meſſal.</hi> ſay not ſo, believe me not.
+<note n="ſ" place="margin">
+                     <hi>Ib. p.</hi> 62.</note> 
+                  <hi>Epiſco<g ref="char:EOLhyphen"/>pi</hi> SVMMVM <hi>in Eccleſiaſtico Ordine</hi> GRADVM <hi>obtinent, ut oli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tenuere, qui</hi> APOSTOLI <hi>vocabantur:</hi> Biſhops <hi>hold the</hi> higheſt degree <hi>in the Eccleſiaſticall Order, as heretofore thoſe did, who were called</hi> Apoſtles. But
+<note n="t" place="margin">
+                     <hi>Ib. p.</hi> 269.</note> 
+                  <hi>then it was ſaid of the Councells moulded up of</hi> Both Orders,
+<note n="u" place="margin">Act. 15.22.</note> 
+                  <hi>It pleaſed the</hi> Apo<g ref="char:EOLhyphen"/>ſtles <hi>and</hi> Presbyters. Take his own words, and weigh them well. <hi>Tunc dicebatur in Conciliis ex</hi> utroque Ordine <hi>compoſi<g ref="char:EOLhyphen"/>tis, &amp; congregatis,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Two Orders</hi> they were then, and <hi>two Orders</hi> they are now; though it hath pleaſed the Church to change a title. And that the low<g ref="char:EOLhyphen"/>er of theſe two did never warrantably Ordaine, is ſufficiently manifeſted in the obſervations upon the third and fourth Pro<g ref="char:EOLhyphen"/>poſitions. Say you then what you will, frame what <hi>Ordinances</hi> you pleaſe, the <hi>Ordinations</hi> made by M<hi rend="sup">r</hi> 
+                  <hi>Edmund Calamy,</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Henry Robrough,</hi> and by the whole <hi>Aſſembly</hi> of <hi>Aſſeſſors</hi> and <hi>Scribes,</hi> will be as good as nothing, meere nullities. And your new <hi>Presbyters</hi> ſhall be, what they were before, ſhop<g ref="char:EOLhyphen"/>men, or worſe, and branded to all poſterity with <hi>Iſchyras.</hi>
+               </p>
+               <p n="74">74. Now, I hope, every reaſonable eye ſees, that it is more then time for you to provide, that
+<note n="*" place="margin">
+                     <hi>Ord. p.</hi> 3.</note> 
+                  <hi>a Government of the Church be formed up to the full power, and worke of it; and</hi> that <hi>the whole courſe of Ordination of Miniſters in an</hi> Ordinary way, <hi>be ſet up and ſetled for all the three Kingdomes.</hi> For this your frame is not built upon the foundation of <hi>Apoſtles</hi> and <hi>Prophets, Chriſt Ieſus</hi> being the head corner ſtone; but upon the whimſies of your own braine.</p>
+               <p n="75">75. Hitherto, by your owne confeſſion, ye have gone in no <hi>ordinary,</hi> no <hi>ſetled way:</hi> and therefore not in the way of <hi>Chriſt</hi> and his <hi>Apoſtles.</hi> Neither is <hi>the whole courſe of</hi> your intended <hi>Ordination</hi> yet <hi>ſet up;</hi> your Wiſedomes have not yet found it; no nor yet the <hi>Kirke of Scotland,</hi> from whom you take your paterne. <hi>Geneva</hi> and <hi>Amſterdam</hi> come ſhort of your great in<g ref="char:EOLhyphen"/>tended Maſter piece. None of theſe have <hi>formed up a Govern<g ref="char:EOLhyphen"/>ment of the Church to the full power and work of it;</hi> their plat<g ref="char:EOLhyphen"/>formes <hi>worke</hi> low, and their <hi>power</hi> is empty; but your braines flye high, and we ſhall have a work of wonder next <hi>October.</hi>
+               </p>
+               <pb n="28" facs="tcp:61278:16"/>
+               <p n="76">76. <hi>The whole courſe,</hi> you promiſe fairely; as yet, God knowes, ye have provided only for part of <hi>Ordination;</hi> unleſſe ye make <hi>Presbyters</hi> and <hi>Deacons</hi> the ſame, as you have already ſhufled <hi>Biſhops</hi> properly ſo called, and <hi>Presbyters</hi> into one Or<g ref="char:EOLhyphen"/>der: cleane contrary to the ancient Church, and to the book of God. Thus you have pulled downe the <hi>ordinary way;</hi> God give you grace to ſee your error, that you may in time endeavour to <hi>ſet up</hi> the old, <hi>the ordinary way.</hi>
+               </p>
+               <p n="77">77. For <hi>Examination,</hi> proviſion is made; but <hi>especially,</hi>
+                  <note n="x" place="margin">Ord. p 4.</note> or <hi>firſt</hi> of all, <hi>That he, that is to be Ordained, muſt bring with him a teſtimoniall of his taking the</hi> Covenant <hi>of the three King<g ref="char:EOLhyphen"/>domes,</hi> framed by a Rebellious combination, againſt the word of God, and the Lawes of this Kingdome; but according to the directions of the World, the Fleſh, and the Divell. A <hi>teſtimo<g ref="char:EOLhyphen"/>niall</hi> worthy of ſuch an <hi>Ordinance,</hi> ſuch <hi>Ordainers,</hi> and ſuch <hi>Orders.</hi> Of this he <hi>must</hi> be ſure to <hi>bring a Teſtimoniall.</hi> And without this neither <hi>Learning</hi> nor <hi>holineſſe of life</hi> will ſerve the turne.</p>
+               <p n="78">78.
+<note n="y" place="margin">His <hi>age</hi> is to be twenty foure yeares, at the leaſt, <hi>Ord. p.</hi> 4</note> For <hi>age</hi> they agree with our <hi>Canons.</hi> Touching
+<note n="z" place="margin">The Mini<g ref="char:EOLhyphen"/>ſters appoin<g ref="char:EOLhyphen"/>ted to ordain, ſhall proceed to enquire touching the <hi>grace of God</hi> in him. <hi>Ib.</hi>
+                  </note> 
+                  <hi>grace</hi> will be an hard matter to <hi>enquire;</hi>
+                  <note n="a" place="margin">
+                     <hi>Ib. p.</hi> 8.</note> an <hi>examination of two ſeverall daies,</hi> or of two ſeverall yeares will hardly ſerve the turne. <hi>Iudas</hi> had attended upon our Saviour three yeares and upwards; and yet when our Saviour told his <hi>Apoſtles,</hi> that
+<note n="b" place="margin">
+                     <hi>S.</hi> Joh. 6.70, 71.</note> one of them was a Divell, and would betray him, <hi>Iudas</hi> was little miſtruſted by his fellow Apoſtles: for the text ſaith plainly, that
+<note n="c" place="margin">
+                     <hi>S.</hi> Jo. 13 22.</note> 
+                  <hi>they looked one upon another, doubting of whom he spake.</hi> Indeed by righteouſneſſe and holineſſe of life, you and we may judge of <hi>grace.</hi> We may alſo make tryall of his
+<note n="d" place="margin">
+                     <hi>Ord. p.</hi> 4.</note> 
+                  <hi>Learning and ſufficiency</hi> in ſome good meaſure, by <hi>examinati<g ref="char:EOLhyphen"/>on.</hi> But if we take <hi>ſufficiency</hi> in a ſtrict ſence,
+<note n="e" place="margin">2. Cor. 2.16.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>who is ſufficient for theſe things?</hi> The man is hardly to be found in S. <hi>Pauls</hi> judgement:
+<note n="f" place="margin">1. Tim. 3.2.</note> for he ought to be <hi>vigilant, apt to teach;</hi> and
+<note n="g" place="margin">Tit. 1.9.</note> 
+                  <hi>able by ſound Doctrine to convince the gain<g ref="char:EOLhyphen"/>ſayers.</hi> The <hi>Independents</hi> give you daily occaſion to ſhew your abilities.</p>
+               <p n="79">79.
+<note n="h" place="margin">
+                     <hi>Ord. p.</hi> 4.</note> 
+                  <hi>Touching the evidence of his calling to the holy Mini<g ref="char:EOLhyphen"/>ſtery,</hi> will be a curious point to enquire. The onely way we know, is by enquiring of the Party to be ordained, whether he
+<pb n="29" facs="tcp:61278:16"/>conceive and beleeve, that he is inwardly called to this Sacred Function: and by his anſwer to judge. So in this particular, beleefe is neceſſary on both ſides: for
+<note n="i" place="margin">Heb. 11.1.</note> 
+                  <hi>faith is the evidence of things not ſeen.</hi> And neither he, nor I, can ſee his inward calling.</p>
+               <p n="80">80. The <hi>Rules for examination</hi> are not much amiſſe; onely I would gladly know of you,
+<note n="k" place="margin">Triall ſhall be made of his knowledge in the <hi>chiefe grounds</hi> of Re<g ref="char:EOLhyphen"/>ligion, and of his ability to defend the <hi>Orthodoxe do<g ref="char:EOLhyphen"/>ctrine</hi> contai<g ref="char:EOLhyphen"/>ned in them, againſt all <hi>un<g ref="char:EOLhyphen"/>ſound and er<g ref="char:EOLhyphen"/>ronious opini<g ref="char:EOLhyphen"/>ons.</hi> Ord. p. 6.</note> what is the <hi>Religion,</hi> he is to be examined in; where the <hi>chiefe grounds</hi> thereof are to be found. Which is the <hi>Orthodoxe Doctrine</hi> he is to defend: and which the <hi>unſound and erroneous opinions,</hi> he is to confute. Whether
+<note n="l" place="margin">Of his skill in <hi>caſes of Conſcience</hi> Ib.</note> in <hi>caſe of Conſcience</hi> it be upon ſome occaſions lawfull to
+<note n="m" place="margin">Ro. 13 1, 2.</note> 
+                  <hi>reſiſt the higher,</hi>
+                  <note n="n" place="margin">1. <hi>S.</hi> Pet. 2.13.</note> 
+                  <hi>the Supreme Powers, the King?</hi> Cleane contrary to the Doctrine of thoſe two great <hi>Apoſtles,</hi> S. <hi>Peter,</hi> and S. <hi>Paul,</hi> who command us to <hi>ſubmit,</hi> to <hi>be ſubject to theſe powers</hi>
+                  <note n="o" place="margin">Rom. 13.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>for Conſcience ſake.</hi> Whether in <hi>caſe of Conſcience,</hi> it be lawfull to rob men of their Wives, Mothers of their Children, and all theſe of their meanes; when they have neither offen<g ref="char:EOLhyphen"/>ded againſt the Law of God, nor the eſtabliſhed Lawes of the Land? Whereas the Law of God is, to
+<note n="p" place="margin">
+                     <hi>Ib. v.</hi> 7.</note> 
+                  <hi>give every man</hi> his owne, <hi>his due;</hi> and
+<note n="q" place="margin">Jer. 22.3.</note> to <hi>wrong no man.</hi>
+               </p>
+               <p n="81">81. It is required alſo, that
+<note n="r" place="margin">
+                     <hi>Ord. p.</hi> 7.</note> before his Ordination he <hi>Preach,</hi> and <hi>dispute. Preach</hi> before ſome judicious Corpora<g ref="char:EOLhyphen"/>tion; and <hi>maintaine a Dispute,</hi> as your Learned men did at <hi>
+                     <g ref="char:V">Ʋ</g>xbridge.</hi> But I pray you, where doe you find it lawfull to Preach before <hi>Ordination?</hi> S. <hi>Paul</hi> is of another mind.
+<note n="ſ" place="margin">Rom. 10.15.</note> 
+                  <hi>How ſhall they Preach,</hi> (ſaith he) <hi>except they be ſent?</hi> Much about the ſame time, that they
+<note n="t" place="margin">v. 14.</note> 
+                  <hi>beleeve in him of whom they have not heard.</hi> Indeed the
+<note n="u" place="margin">
+                     <hi>Art.</hi> 23.</note> 
+                  <hi>Church of England,</hi> and
+<note n="*" place="margin">
+                     <hi>Confeſſ Au<g ref="char:EOLhyphen"/>guſt. Art.</hi> 14.</note> the <hi>Confeſſion of Auspurge,</hi> ſubmit to S. <hi>Paul,</hi> and profeſſe, that <hi>it is not law<g ref="char:EOLhyphen"/>full for any man to</hi> PREACH PUBLICKLY, <hi>before he be law<g ref="char:EOLhyphen"/>fully called and ſent.</hi> And who are <hi>lawfully called and ſent,</hi> is dec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ared, §. 56, 57. <hi>&amp;c.</hi>
+               </p>
+               <p n="82">82. But <hi>lawfull calling and ſending</hi> are grown out of date, and though the People are not competent <hi>Ordainers,</hi> yet are they hold by you to be <hi>competent Judges</hi> of the worth and abilities of thoſe that are deſirous to take Orders. They muſt
+<note n="x" place="margin">He is to be ſent to the <hi>Church,</hi> or <hi>other</hi> place, where he is to ſerve, there to <hi>Preach</hi> three ſeverall daies, and to con<g ref="char:EOLhyphen"/>verſe with the People, &amp;c. <hi>Ord. p.</hi> 8.</note> 
+                  <hi>have try<g ref="char:EOLhyphen"/>all of their gifts for their edification.</hi> And after every ones tri<g ref="char:EOLhyphen"/>all,
+<note n="y" place="margin">
+                     <hi>Ib. p.</hi> 9.</note> in the laſt of his three dayes Preaching before a ſtrange and unknowne Pariſh, an <hi>Inſtrument in writing</hi> is to be <hi>affixed
+<pb n="30" facs="tcp:61278:17"/>to the Church doore,</hi> and at the day appointed, <hi>any member of that Congregation may with all Chriſtian diſcretion and patience,</hi> put in exceptions againſt him. What a frivolous thing is this? What a bable to pleaſe the People with, that they are to <hi>trye his gifts</hi> by three Lectures, which may be none of his owne; and by a fortnights or three weekes <hi>converſation,</hi> which may be eaſily diſſembled? I ſhall not give you mine owne conje<g ref="char:EOLhyphen"/>ctures, leaſt they be miſconſtrued: but I ſhall acquaint you with two obſervations of S. <hi>Hierome.</hi> The firſt ſhall be concerning the Peoples ability to judge of Sermons.
+<note n="z" place="margin">
+                     <hi>Hieron. ad Nepotian. Ep.</hi> 2.</note> 
+                  <hi>Nihil tam facile, quàm vilem plebeculam, &amp; indoctam concionem Linguae volubi<g ref="char:EOLhyphen"/>litate decipere. Nothing ſo eaſie, as to cheat the rude People, and an unlearned Congregation with a voluble tongue.</hi> The ſecond is this;
+<note n="a" place="margin">
+                     <hi>Hieron. ad<g ref="char:EOLhyphen"/>verſ. Iovin. l.</hi> 1. <hi>c.</hi> 19.</note> 
+                  <hi>In Sacerdotibus comprobandis unuſquis<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> moribus ſuis favet, ut non tam bonum, quàm S<g ref="char:V">Ʋ</g>I SIMILEM quaerat. When the choice of the Prieſt is in the People; every man ſo fa<g ref="char:EOLhyphen"/>vours his owne manners, that he lookes not ſo much after a good man, as a man after his owne palate.</hi> We are likely then to ſee goodly Miniſters ſwarme among us, if your <hi>Ordinance</hi> may prevaile.</p>
+               <p n="83">83. Well,
+<note n="b" place="margin">
+                     <hi>Ord. p.</hi> 9.</note> 
+                  <hi>upon the Ordination day, a Solemne Faſt is to be kept by the Congregation in that Church, where he is to ſerve, that they may more earneſtly joyne in Prayer to God for a bleſſing upon the Perſon, and labours of this his ſervant.</hi> How much bet<g ref="char:EOLhyphen"/>ter had it been, to have trod in the Ancient ſteps of the Church, and to have the <hi>Ordination</hi> upon the Sundaies after the <hi>Ember weekes;</hi> when the whole Church of God Faſts and Prayes for this very purpoſe, that it would pleaſe God, to powre downe his Spirit upon the Perſons to be ordained the Sunday follow<g ref="char:EOLhyphen"/>ing; and to furniſh them with ſuch gifts and graces as are fit for ſo high a calling. For no queſtion, but the Devotions of the whole Church of God together, are more acceptable to God, and more availeable with him, then the Faſtings and Prayers of any one petty Pariſh.</p>
+               <p n="84">84
+<note n="c" place="margin">
+                     <hi>Ib. p.</hi> 10.</note> 
+                  <hi>The perſon to be ordained, is to be demanded in the face of the Congregation concerning his faith in Chriſt Jeſus.</hi> A queſti<g ref="char:EOLhyphen"/>on not unſeaſonable for the times; for a friend of mine was que<g ref="char:EOLhyphen"/>ſtioned by M. <hi>Corbet</hi> for teaching, that the mother of Ieſus
+<pb n="31" facs="tcp:61278:17"/>Chriſt was the mother of God.
+<note n="d" place="margin">The Mini<g ref="char:EOLhyphen"/>ſter which hath Preach<g ref="char:EOLhyphen"/>ed, ſhall de<g ref="char:EOLhyphen"/>mand of him, who is to be ord<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in'd, con<g ref="char:EOLhyphen"/>cerning <hi>his perſwaſion of the truth of the Refo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>med Religion,</hi> ac<g ref="char:EOLhyphen"/>cording to the Scriptures. <hi>Ib.</hi>
+                  </note> He is alſo to be examined, <hi>concerning his perſwaſion of the truth of the reformed Religion;</hi> which few men know where to finde. Where may we ſee the Articles of your Religion, or the rule you will be tryed by? Is the <hi>Reformed Religion</hi> contained in out 39 Articles? In the <hi>Apoſtles, Nicene,</hi> or <hi>Athanaſius</hi> Creed? None of theſe are in your new <hi>Directory.</hi> It may be it is in the <hi>Harmony of Con<g ref="char:EOLhyphen"/>feſſions.</hi> I would to God you would tell us, which it is. Be it what it will, it is <hi>according to the Scriptures.</hi> Is this enough? Will not the <hi>Brownist</hi> and the <hi>Anabaptiſt,</hi> the <hi>Papiſt</hi> and the <hi>Antitrinitarian,</hi> yea and the <hi>Socinian,</hi> ſay as much? And ſome of theſe will put the beſt of your <hi>Elders</hi> ſhroadly to it to prove the contrary.</p>
+               <p n="85">85. But why have we not a <hi>Directory</hi> for <hi>faith,</hi> as well as for <hi>Prayers?</hi> That ſo we may know, what your <hi>new reformed faith</hi> is. I think as your <hi>Prayers</hi> are <hi>unformed,</hi> ſo your <hi>faith</hi> is <hi>unfound;</hi> it is yet to be agreed on. A wonder it is, you are ſo long in <hi>voting</hi> it. But your wiſedomes know, that it is impoſ<g ref="char:EOLhyphen"/>ſible to vote a <hi>Religion,</hi> which might pleaſe all the adherents to this Rebellion. As therefore ye leave every man at liberty to the ſpirit of prayer, ſo have ye left every man free to chooſe his <hi>Religion,</hi> ſo it be not deſtructive to your Platformes. This you eſteem to be that <hi>liberty of Conſcience,</hi> which ſtints not the Spirit, and is the only curbe to Popery.</p>
+               <p n="86">86. But you have a great care of
+<note n="e" place="margin">He is to be demanded of his <hi>Zeale</hi> and <hi>Faithfulneſſe</hi> in maintai<g ref="char:EOLhyphen"/>ning the <hi>
+                        <g ref="char:V">Ʋ</g>
+                        <g ref="char:EOLhyphen"/>nity of the Church,</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Errour</hi> and <hi>Schiſme.</hi> Ib.</note> 
+                  <hi>the Churches unity againſt Error and Schiſme;</hi> he is therefore to be examined concerning his <hi>Zeale and Faithfulneſſe in the maintenance of this unity.</hi> But have we not read of ſome, whoſe <hi>Faith</hi> is ſaid to be <hi>Faction,</hi> whoſe <hi>Religion, Rebellion;</hi> &amp;
+<note n="f" place="margin">
+                     <hi>Tertul. de Praeſcrip. c.</hi> 42.</note> whoſe <hi>
+                     <g ref="char:V">Ʋ</g>nity, Schiſme?</hi> But how ſhall they <hi>maintaine <g ref="char:V">Ʋ</g>nity,</hi> that have diſſolved the bonds of charity? Tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have raiſed ſuch and ſo many <hi>Schiſmes,</hi> as the <hi>Church</hi> hath hardly been acquainted with from her foundati<g ref="char:EOLhyphen"/>on? That have hatched and clucked up ſo many <hi>Errors</hi> and <hi>Hereſies,</hi> that men and Angells ſtand amazed at? And yet a pre<g ref="char:EOLhyphen"/>tence of <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> and a pretence of <hi>Reformation,</hi> may work much upon the weake People, as many other pretences have. Good Lord, how like the Devill we affect to be, to make ſhow to be, what we are leaſt; and to endeavour that, we ſeek to over<g ref="char:EOLhyphen"/>throw.
+<pb n="32" facs="tcp:61278:18"/>The reſt of your <hi>Interrogatories</hi> are borrowed from our <hi>Book of Ordination,</hi> and from our <hi>Canons:</hi> as every thing elſe is, that is good in this <hi>Directorie.</hi>
+               </p>
+               <p n="87">87. In the <hi>Ordination</hi> I obſerve, that you call the Miniſtery
+<note n="g" place="margin">
+                     <hi>Ord. p</hi> 11.</note> a <hi>great worke,</hi> an
+<note n="h" place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 12.</note> 
+                  <hi>holy Service:</hi> and ſuddenly after he is to be exhorted to
+<note n="i" place="margin">Ib</note> conſider the <hi>greatneſſe of his Office.</hi> I am glad, you have ſo good an opinion of the calling. If then it be ſuch a <hi>worke,</hi> ſuch an <hi>Office</hi> as yee ſpeake of, why have you thruſt ſuch illiterate meane Perſons into our Cures, as <hi>Blacke-Smiths, Taylors, Felt-makers,</hi> and the like, with unwaſhed hands to meddle with this <hi>holy Service?</hi> Are theſe men fit to under<g ref="char:EOLhyphen"/>take ſo <hi>great a worke?</hi> Is it probable, that ſuch as theſe ſhould
+<note n="k" place="margin">Ib.</note> 
+                  <hi>both ſave themſelves, and the People</hi> by you <hi>committed to their Charge?</hi> It is rather to be feared, that as
+<note n="l" place="margin">Levit. 10.1. Num. 3.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> with <hi>Nadab</hi> and <hi>Abihu</hi> they offer <hi>ſtrange fire,</hi> ſo with them they will periſh in this fire, and draw the people into the ſame deſtruction.</p>
+               <p n="88">88. Well, he is
+<note n="m" place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> p.</hi> 32.</note> 
+                  <hi>ſet apart by Impoſition of hands</hi> (that an<g ref="char:EOLhyphen"/>cient Ceremonie of Ordination) <hi>to fulfill the worke of his Mi<g ref="char:EOLhyphen"/>niſtery in all things.</hi> What <hi>Miniſtery</hi> is this? Here is none named in particular. And yet there are more Orders of Mini<g ref="char:EOLhyphen"/>ſters then one, witneſſe your ſervant <hi>Smectymnuus,</hi> who
+<note n="n" place="margin">
+                     <hi>Smect.</hi> Anſ. p. 63.</note> acknowledgeth <hi>Presbyters</hi> and <hi>Deacons</hi> to be of two diſtinct Orders. But the <hi>Church of England,</hi> agreeably to the whole Church of God for 1500 yeares together, tells us, that
+<note n="o" place="margin">Preface to the Book of <hi>Ordination.</hi>
+                  </note> 
+                  <hi>from the Apoſtles times there have been theſe Orders of Miniſters in Chriſts Church</hi> BISHOPS, PRIESTS, <hi>and</hi> DEACONS.</p>
+               <p n="89">89. His <hi>Miniſtery?</hi> Hath it no ſpeciall, or particular name to be knowne by? Alas <hi>Miniſtery</hi> and <hi>Minister</hi> are words of a large extent, generall names that reach to all Orders, and per<g ref="char:EOLhyphen"/>chance further. <hi>Minister</hi> is the <hi>Genus,</hi> which hath theſe <hi>spe<g ref="char:EOLhyphen"/>cies</hi> under it, <hi>Biſhop, Prieſt,</hi> and <hi>Deacon;</hi> and each of theſe is a <hi>Miniſter.</hi> But before we can tell, which of theſe is meant, there muſt be added a ſpecificall difference: as there muſt be to a <hi>Creature,</hi> before we can conceive, what manner of <hi>Crea<g ref="char:EOLhyphen"/>ture,</hi> or of <hi>living Creature</hi> is intended. What though, <hi>In all things,</hi> be added; yet <hi>all</hi> theſe <hi>things</hi> will reach no further, then to thoſe <hi>things,</hi> which are within the compaſſe or power of that <hi>his Miniſtery,</hi> to which he is ordained. And ſo for all
+<pb n="33" facs="tcp:61278:18"/>this we are to ſeek, to what <hi>Miniſtery</hi> he is <hi>ſet apart.</hi> Whereas in our <hi>Book of Ordination,</hi> in the <hi>Pontificals,</hi> and <hi>Enchologe,</hi> every perſon in his <hi>Ordination</hi> is by name aſſigned to his parti<g ref="char:EOLhyphen"/>cular Order.</p>
+               <p n="90">90. Indeed I muſt confeſſe, your <hi>Miniſter</hi> is expreſſed to be a <hi>Presbyter;</hi> before Ordination, <hi>pag</hi> 4. as alſo after Ordi<g ref="char:EOLhyphen"/>nation, <hi>pag.</hi> 15. but at Ordination, <hi>Miniſter.</hi> As if <hi>Presbyter</hi> and <hi>Miniſter</hi> were convertible termes, names of the ſelfe ſame ſignification. True it is, that every <hi>Presbyter</hi> is a <hi>Mini<g ref="char:EOLhyphen"/>ſter,</hi> but every <hi>Miniſter</hi> is not a <hi>Presbyter;</hi> no more then every living Creature is a man, though every man be a living Crea<g ref="char:EOLhyphen"/>ture. I ſhould rather conceive a <hi>Miniſter</hi> to be a <hi>Deacon</hi> then a <hi>Presbyter</hi> in our language; becauſe we uſually tranſlate, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Miniſtery,</hi> and <hi>Miniſter,</hi> 2. <hi>Cor.</hi> 13.23. 2. <hi>Tim.</hi> 4.5. <hi>&amp;c.</hi> But you muſt enjoy your owne words, and your owne meaning, though they be contrary to the ſence and cuſtome of the Church.</p>
+               <p n="91">91. Order alſo is taken, that
+<note n="p" place="margin">Ord p. 12.</note> one of the Ordainers <hi>exhort and charge the People in the name of God, willingly to receive and acknowledge him as the Miniſter of Chriſt; and to maintaine, encourage, and aſſiſt him in all the parts of his Office.</hi> No queſtion to be made of their <hi>willingneſſe to receive and acknowledge</hi> a new <hi>Miniſter.</hi> Novelties are pleaſing, and the People
+<note n="q" place="margin">2. Tim 4.3.</note> 
+                  <hi>ha<g ref="char:EOLhyphen"/>ving itching cares, will heap to themſelves Teachers after their owne luſts and fancies.</hi> But when it comes to <hi>maintenance,</hi> yee ſhall find, that an <hi>Exhortation</hi> or <hi>Charge</hi> will not ſerve the turne. For though
+<note n="r" place="margin">Jer. 5.31.</note> their <hi>Prophets prophecy falſely, and the People love to have it ſo,</hi> yet experience hath taught you, that <hi>maintenance</hi> comes hardly from them, till your Orders and Ordinances conſtraine them to pay. You have been therefore, and will be enforced to take a more ſtrict courſe for the <hi>main<g ref="char:EOLhyphen"/>tenance</hi> of your <hi>Miniſters.</hi>
+               </p>
+               <p n="92">92. But when it comes to <hi>aſſiſtance,</hi> they will be forward enough: for your <hi>Ordinance</hi> is, that
+<note n="ſ" place="margin">Ord. p. 12.</note> 
+                  <hi>the People be charged to aſſiſt the Miniſter in all the parts of his Office.</hi> What? Are all <hi>Presbyters?</hi> Are all <hi>Miniſters?</hi> Are all <hi>Teachers?</hi>
+                  <note n="t" place="margin">
+                     <hi>Haeretico<g ref="char:EOLhyphen"/>rum qui <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>am Larc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſacer<g ref="char:EOLhyphen"/>dotalia mune<g ref="char:EOLhyphen"/>ra injungunt.</hi> Tertul. <hi>de Praeſcrip. c.</hi> 41.</note> By your <hi>Ordinance,</hi> not only <hi>ſome,</hi> but all the People are turned <hi>Pro<g ref="char:EOLhyphen"/>phets. The People</hi> muſt <hi>aſſiſt the Miniſter</hi> in Baptizing, in
+<pb n="34" facs="tcp:61278:19"/>Preaching, in adminiſtring the Lords Supper: for all theſe belong to his <hi>Office.</hi> If this be not your meaning, you ſhould have done well, to have expreſſed your ſelves in plainer termes, that we might underſtand your meaning. For this is certaine, that no man can <hi>aſſiſt a Presbyter in all the parts of his Office,</hi> that is not of the ſame Office. For though a <hi>Deacon</hi> may aſſiſt the <hi>Presbyter</hi> in the adminiſtration, he cannot <hi>aſſiſt</hi> him in the Conſecration of the Lords Supper. And your ſelves will ſay, that a <hi>Deacon</hi> may not <hi>aſſist</hi> him in <hi>Impoſition of hands.</hi> How then may the <hi>People aſſiſt him in all the parts of his Office?</hi> Surely either the meaning, or the expreſſion is not good; that's plaine.</p>
+               <p n="93">93. I have done with your <hi>Directorie,</hi> I have diſcharged my Conſcience: and I would to God, I could
+<note n="u" place="margin">Ord. p. 12.</note> 
+                  <hi>diſmiſſe you with a Bleſſing.</hi> With a <hi>Prayer</hi> I may, beſeeching God ſo abundantly to bleſſe you with his grace, that you may ſee your foule Impieties, and Repent, and in time, while it is called to day, diſcharge your Conſciences, knowing aſſuredly, that you muſt appeare, and give a ſtrict account for all your Ordi<g ref="char:EOLhyphen"/>nances and Actions before the impartiall Barre of that uner<g ref="char:EOLhyphen"/>ring Iudge <hi>Chriſt Jeſus.</hi> And
+<note n="x" place="margin">Heb. 10.31.</note> 
+                  <hi>a dreadfull thing it is to fall into the Hands of the Everliving God.</hi> Then an <hi>Ordinance of Parliament,</hi> or the <hi>Protection of both Houſes</hi> ſhall ſtand you, and your Divine <hi>Aſſembly</hi> in ſmall ſtead. In that day your <hi>Ordinances,</hi> and <hi>Actions,</hi> and <hi>Intentions,</hi> ſhall be throughly ſifted, and layed open before your faces. Then
+<note n="y" place="margin">S. Ioh. 5.29.</note> 
+                  <hi>they, that have done good, ſhall goe into the Reſurrection of Life, and they that have done evill, into the Reſurrection of Damnation.</hi> God give every one of us grace to lay this to heart, that ſo we may avoyd the wrath to come.</p>
+               <closer>AMEN.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61278:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
